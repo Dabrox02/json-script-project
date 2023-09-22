@@ -1,0 +1,4015 @@
+{
+    "1": {
+        "sectionName": "Sección 1: Introducción",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción al curso",
+                    "video": "react-1-01-Introducción",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "¿Cómo funcionará el curso?",
+                    "video": "react-1-02-Como_funcionara_el_curso",
+                    "links": {}
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "¿Cómo hacer preguntas?",
+                    "video": "react-1-03-Como-hacer-preguntas",
+                    "links": {}
+                }
+            },
+            {
+                "4": {
+                    "Titulo": "Instalaciones necesarias y recomendadas",
+                    "video": "react-1-04-Instalaciones_necesarias_y_recomendadas",
+                    "links": [
+                        {
+                            "titulo-link": "Instalaciones necesarias",
+                            "link": "https://gist.github.com/Klerith/4a4abfd88a88b2d1f16efd95fea41362"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "2": {
+        "sectionName": "Sección 2: Introducción a React y conceptos generales",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción a la sección",
+                    "video": "react-2-01-Introducción",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Temas puntuales de la sección\n¿Qué aprenderemos en esta sección?\n\n¿Qué es React?\n\nConceptos generales\n\nBabel\n\nJSX\n\nDaremos nuestros primeros pasos y una pequeña aplicación que nos ayudará a perderle el miedo a React rápidamente"
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "¿Qué es React?",
+                    "video": "react-2-02-Que_es_React",
+                    "links": {}
+                }
+            },
+            {
+                "4": {
+                    "titulo": "Primeros pasos en React",
+                    "video": "react-2-03-Primeros_pasos_en_React",
+                    "links": {
+                        "1": {
+                            "titulo-link": "React-index.html Demo",
+                            "link": "https://gist.github.com/Klerith/b0111f52ba16451d095f38d4c995605b"
+                        }
+                    }
+                }
+            },
+            {
+                "5": {
+                    "Titulo": "Introducción a Babel",
+                    "video": "react-2-04-Introduccion_a_Babel",
+                    "links": [
+                        {
+                            "titulo-link": "Babeljs.io - Sitio oficial",
+                            "link": "https://babeljs.io/"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "3": {
+        "sectionName": "Sección 3: Introducción a JavaScript moderno",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción a la sección",
+                    "video": "react-3-01-Introduccion",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Temas puntuales de la sección\n¿Qué aprenderemos en esta sección?\n\nGenerar la base sobre JavaScript\n\nConstantes y variables Let\n\nTemplate String\n\nObjetos literales\n\nArreglos\n\nDesestructruación * (sumamente importante)\n\nPromesas\n\nFetch API\n\nTernarios\n\nAsync - Await\n\nMi objetivo aquí es que tengamos las bases que nos ayuden a que podamos diferenciar fácilmente qué es propio de React y qué es propio de JavaScript. Estos conceptos y ejercicios nos ayudarán a suavizar la curva de aprendizaje de React."
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "Inicio de proyecto - Bases de JavaScript",
+                    "video": "react-3-03-Inicio_de_proyecto_-_Bases_de_JavaScript",
+                    "links": [
+                        {
+                            "titulo-link": "create-react-app - Official Website",
+                            "link": "https://create-react-app.dev/"
+                        }
+                    ]
+                }
+            },
+            {
+                "4": {
+                    "Titulo": "Variables y constantes",
+                    "video": "react-3-04-Variables_y_constantes",
+                    "links": {}
+                }
+            },
+            {
+                "5": {
+                    "Titulo": "Template String",
+                    "video": "react-3-05-Template_String",
+                    "links": {}
+                }
+            },
+            {
+                "6": {
+                    "Titulo": "Objetos lilterales",
+                    "video": "react-3-06-Objetos_lilterales",
+                    "links": {}
+                }
+            },
+            {
+                "7": {
+                    "Titulo": "Arreglos",
+                    "video": "react-3-07-Arreglos",
+                    "links": [
+                        {
+                            "titulo-link": "Mozilla MDN: Array.map()",
+                            "link": "https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/map"
+                        }
+                    ]
+                }
+            },
+            {
+                "8": {
+                    "Titulo": "Funciones",
+                    "video": "react-3-08-Funciones",
+                    "links": {}
+                }
+            },
+            {
+                "9": {
+                    "Titulo": "Desestructuación de Objetos",
+                    "video": "react-3-09-Desestructruacion_de_Objetos",
+                    "links": [
+                        {
+                            "titulo-link": "Mozilla MDN: Asignación Desestructurante",
+                            "link": "https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment"
+                        }
+                    ]
+                }
+            },
+            {
+                "10": {
+                    "Titulo": "Desestructuación de Arreglos",
+                    "video": "react-3-10-Desestructruacion_de_Arreglos",
+                    "links": {}
+                }
+            },
+            {
+                "11": {
+                    "Titulo": "Import, export y funciones comunes de arreglos",
+                    "video": "react-3-11-Import_export_y_funciones_comunes_de_arreglos",
+                    "links": [
+                        {
+                            "titulo-link": "Heroes.js",
+                            "link": "https://gist.github.com/Klerith/4aeb99d31aedbc29ff4d54bbb77d2d7f"
+                        },
+                        {
+                            "titulo-link": "Mozilla Mdn: Filter",
+                            "link": "https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/find"
+                        }
+                    ]
+                }
+            },
+            {
+                "12": {
+                    "Titulo": "Múltiples exportaciones y exportaciones por defecto",
+                    "video": "react-3-12-Multiples_exportaciones_y_exportaciones_por_defecto",
+                    "links": {}
+                }
+            },
+            {
+                "13": {
+                    "Titulo": "Promesas",
+                    "video": "react-3-13-Promesas",
+                    "links": [
+                        {
+                            "titulo-link": "Mozilla MDN: Promesas",
+                            "link": "https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Promise"
+                        }
+                    ]
+                }
+            },
+            {
+                "14": {
+                    "Titulo": "Fetch API",
+                    "video": "react-3-14-Fetch_API",
+                    "links": [
+                        {
+                            "titulo-link": "Giphy API",
+                            "link": "https://developers.giphy.com/"
+                        },
+                        {
+                            "titulo-link": "Mozilla MDN: Fetch",
+                            "link": "https://developer.mozilla.org/es/docs/Web/API/Fetch_API"
+                        }
+                    ]
+                }
+            },
+            {
+                "15": {
+                    "Titulo": "Async - Await",
+                    "video": "react-3-15-Async_-_Await",
+                    "links": {}
+                }
+            },
+            {
+                "16": {
+                    "Titulo": "Operador condicional ternario",
+                    "video": "react-3-16-Operador_condicional_ternario",
+                    "links": {}
+                }
+            },
+            {
+                "17": {
+                    "Titulo": "Nota sobre JavaScript",
+                    "Texto": "Nota sobre JavaScript\nTerminamos la sección de reforzamiento de JavaScript\nPero recuerden que esto es para entrar en calor y que los temas principales de JavaScript que necesito que conozcan estén cubiertos, pero les recomiendo que cualquier duda adicional sobre el lenguaje, sobre métodos y demás, la consulten aquí\n\nhttps://developer.mozilla.org/es/\n\nComo ya les había mencionado, considero esa página la mejor en cuanto a documentación sobre JavaScript.\n\nTambién, si sienten que necesitan más sobre JavaScript en video, mi curso de JavaScript Moderno es el indicado para eso.\n\nEn fin, es momento de empezar con React!"
+                }
+            },
+            {
+                "18": {
+                    "Titulo": "Código fuente de la sección",
+                    "Texto": "Código fuente de la sección\nCódigo de la sección\nAquí les dejo el repositorio de Github y el código fuente descargable para que lo tengan a la mano por si lo llegan a necesitar, pero recuerden, es mejor que ustedes escriba el código y experimenten todo de primera mano.\n\nNo se olviden de hacer los ejercicios por más fáciles o difíciles que lo sientan, es lo que nos ayudará a mejorar y a tener experiencia real con el código.\n\nEs momento de empezar con React!\n\nRecursos de la lección:\nRepositorio de Github del proyecto",
+                    "links": [
+                        {
+                            "titulo-link": "Mozilla MDN: Fetch",
+                            "link": "https://github.com/Klerith/react-intro-javascript"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "4": {
+        "sectionName": "Sección 4: Primeros pasos en React",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción a la sección",
+                    "video": "react-4-01-Introducción_a_la_sección",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Temas puntuales de la sección\n¿Qué veremos en esta sección?\n\nNuestra primera aplicación - Hola Mundo\n\nExposiciones sobre los componentes\n\nCreación de componentes (Functional Components)\n\nPropiedades - Props\n\nImpresiones en el HTML\n\nPropTypes\n\nDefaultProps\n\nIntroducción general a los Hooks\n\nuseState\n\nEs una sección importante, especialmente para todos los que están empezando de cero en React, ya que dará las bases de cómo segmentar la lógica de nuestra aplicación en pequeñas piezas más fáciles de mantener."
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "¿Qué son los componentes?",
+                    "video": "react-4-03-Que_son_los_componentes",
+                    "links": {}
+                }
+            },
+            {
+                "4": {
+                    "Titulo": "Primera aplicación de React",
+                    "video": "react-4-04-Primera_aplicacion_de_React",
+                    "links": [
+                        {
+                            "titulo-link": "Create-React-App - Documentación",
+                            "link": "https://create-react-app.dev/"
+                        },
+                        {
+                            "titulo-link": "Vite documentation",
+                            "link": "https://vitejs.dev/"
+                        }
+                    ]
+                }
+            },
+            {
+                "5": {
+                    "Titulo": "Estructura de directorios - CRA",
+                    "video": "react-4-05-Estructura_de_directorios_-_CRA",
+                    "links": [
+                        {
+                            "titulo-link": "Referencia: Robots.txt",
+                            "link": "https://developers.google.com/search/docs/crawling-indexing/robots/intro"
+                        },
+                        {
+                            "titulo-link": "Google Developers - PWA",
+                            "link": "https://web.dev/learn/pwa/"
+                        },
+                        {
+                            "titulo-link": "React-Scripts",
+                            "link": "https://create-react-app.dev/docs/available-scripts/"
+                        }
+                    ]
+                }
+            },
+            {
+                "6": {
+                    "Titulo": "Estructura de directorios - Vite",
+                    "video": "react-4-06-Estructura_de_directorios_-_Vite",
+                    "links": {}
+                }
+            },
+            {
+                "7": {
+                    "Titulo": "Hola Mundo en React",
+                    "video": "react-4-07-Hola_Mundo_en_React",
+                    "links": {}
+                }
+            },
+            {
+                "8": {
+                    "Titulo": "Nuestro primer Componente",
+                    "video": "react-4-08-Nuestro_primer_Componente",
+                    "links": {}
+                }
+            },
+            {
+                "9": {
+                    "Titulo": "Tarea - Crear un nuevo componente",
+                    "video": "react-4-09-Tarea_-_Crear_un_nuevo_componente",
+                    "links": {}
+                }
+            },
+            {
+                "10": {
+                    "Titulo": "Retornar elementos en el Componente - Fragment",
+                    "video": "react-4-10-Retornar_elementos_en_el_Componente_-_Fragment",
+                    "links": {}
+                }
+            },
+            {
+                "11": {
+                    "Titulo": "Impresión de variables en el HTML",
+                    "video": "react-4-11-Impresion_de_variables_en_el_HTML",
+                    "links": {}
+                }
+            },
+            {
+                "12": {
+                    "Titulo": "Colocar estilos de CSS",
+                    "video": "react-4-12-Colocar_estilos_de_CSS",
+                    "links": {}
+                }
+            },
+            {
+                "13": {
+                    "Titulo": "Comunicación entre componentes - Props",
+                    "video": "react-4-13-Comunicacion_entre_componentes_-_Props",
+                    "links": {}
+                }
+            },
+            {
+                "14": {
+                    "Titulo": "PropTypes",
+                    "video": "react-4-14-PropTypes",
+                    "links": {}
+                }
+            },
+            {
+                "15": {
+                    "Titulo": "DefaultProps",
+                    "video": "react-4-15-DefaultProps",
+                    "links": {}
+                }
+            },
+            {
+                "16": {
+                    "Titulo": "Tarea - Componente CounterApp",
+                    "video": "react-4-16-Tarea_-_Componente_CounterApp",
+                    "links": [
+                        {
+                            "titulo-link": "Tarea - Referencia",
+                            "link": "https://gist.github.com/Klerith/e1a731cc595c00a9794a709062eae757"
+                        }
+                    ]
+                }
+            },
+            {
+                "17": {
+                    "Titulo": "Evento click (Eventos en general)",
+                    "video": "react-4-17-Evento_click",
+                    "links": [
+                        {
+                            "titulo-link": "Reactjs.org - Eventos",
+                            "link": "https://es.legacy.reactjs.org/docs/events.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "18": {
+                    "Titulo": "useState - Hook",
+                    "video": "react-4-18-useState_-_Hook",
+                    "links": [
+                        {
+                            "titulo-link": "Reactjs.org - Hooks",
+                            "link": "https://es.legacy.reactjs.org/docs/hooks-intro.html"
+                        },
+                        {
+                            "titulo-link": "Ejemplo - Tarea de desestructuración de arreglos",
+                            "link": "https://github.com/Klerith/react-intro-javascript/blob/master/src/bases/07-deses-arr.js"
+                        }
+                    ]
+                }
+            },
+            {
+                "19": {
+                    "Titulo": "handleSubtract y handleReset",
+                    "video": "react-4-19-handleSubtract_y_handleReset",
+                    "links": {}
+                }
+            },
+            {
+                "20": {
+                    "Titulo": "Código fuente de la sección",
+                    "Texto": "",
+                    "links": [
+                        {
+                            "titulo-link": "Github - fin-seccion-4",
+                            "link": "https://github.com/Klerith/react-vite-counter-app/tree/fin-seccion-4"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "5": {
+        "sectionName": "Sección 5: Pruebas unitarias y de integración - Probando las secciones anteriores",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción a la sección",
+                    "video": "react-5-01-Introducción a la sección",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Temas puntuales de la sección\n¿Qué veremos en esta sección?\n\nIntroducción a las pruebas\n\nAAA\n\nArrange - Arreglar\n\nAct - Actuar\n\nAssert - Afirmar\n\nPrimeras pruebas\n\nJest\n\nExpect\n\ntoBe\n\nEnzyme\n\nComandos útiles en la terminal para pruebas\n\nRevisar elementos renderizados en el componente\n\nSimular eventos\n\nEsta sección de pruebas es sumamente importante porque nos dará la base de las pruebas que estaremos haciendo durante el curso, las pruebas irán creciendo en complejidad, por lo que les recomiendo que nos aseguremos de comprender bien todos estos conceptos para que nos sea más fácil las siguientes secciones de pruebas."
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "Introducción a las pruebas unitarias y de integración",
+                    "video": "react-5-03-Introduccion_a_las_pruebas_unitarias_y_de_integracion",
+                    "links": {}
+                }
+            },
+            {
+                "4": {
+                    "Titulo": "Inicio de la sección - Pruebas sobre lo aprendido anteriormente",
+                    "video": "react-5-04-Inicio_de_la_seccion_-_Pruebas_sobre_lo_aprendido_anteriormente",
+                    "links": [
+                        {
+                            "titulo-link": "base-pruebas.zip",
+                            "link": "https://import.cdn.thinkific.com/643563/courses/1901683/basepruebas-220616-140151.zip"
+                        }
+                    ]
+                }
+            },
+            {
+                "5": {
+                    "Titulo": "Mi primera prueba y configuraciones iniciales",
+                    "video": "react-5-05-Mi_primera_prueba_y_configuraciones_iniciales",
+                    "links": [
+                        {
+                            "titulo-link": "JestJS",
+                            "link": "https://jestjs.io/"
+                        }
+                    ]
+                }
+            },
+            {
+                "6": {
+                    "Titulo": "Jest - Expect - toBe",
+                    "video": "react-5-06-Jest_-_Expect_-_toBe",
+                    "links": [
+                        {
+                            "titulo-link": "Jest - Documentación oficial",
+                            "link": "https://jestjs.io/"
+                        }
+                    ]
+                }
+            },
+            {
+                "7": {
+                    "Titulo": "Nota de Actualización - Extensión de archivos",
+                    "Texto": "En la siguiente clase se hace la configuración para las pruebas de nuestros distintos archivos, en caso de ver el error \"You appear to be using a native ECMAScript module configuration file, which is only supported when running Babel asynchronously.\"\n\nCambiar extensión de los archivos jest.config.js y babel.config.js a .cjs\n\nPara ver más detalles al respecto pueden ir a NodeJS",
+                    "links": [
+                        {
+                            "titulo-link": "NodeJs",
+                            "link": "https://nodejs.org/docs/latest/api/modules.html#enabling"
+                        }
+                    ]
+                }
+            },
+            {
+                "8": {
+                    "Titulo": "Pruebas en el archivo 02-template-string.js",
+                    "video": "react-5-07-Pruebas_en_el_archivo_02-template-string",
+                    "links": {}
+                }
+            },
+            {
+                "9": {
+                    "Titulo": "toEqual",
+                    "video": "react-5-08-toEqual",
+                    "links": {}
+                }
+            },
+            {
+                "10": {
+                    "Titulo": "Pruebas en 08-imp-exp.js - Arreglos",
+                    "video": "react-5-09-Pruebas_en_08-imp-exp.js_-_Arreglos",
+                    "links": [
+                        {
+                            "titulo-link": "heroes.js - Gist",
+                            "link": "https://gist.github.com/Klerith/4aeb99d31aedbc29ff4d54bbb77d2d7f"
+                        }
+                    ]
+                }
+            },
+            {
+                "11": {
+                    "Titulo": "Pruebas en el archivo 07-deses-arr.js",
+                    "video": "react-5-10-Pruebas_en_el_archivo_07-deses-arr",
+                    "links": {}
+                }
+            },
+            {
+                "12": {
+                    "Titulo": "Pruebas con tareas asíncronas",
+                    "video": "react-5-11-Pruebas_con_tareas_asincronas",
+                    "links": {}
+                }
+            },
+            {
+                "13": {
+                    "Titulo": "Pruebas con async-await",
+                    "video": "react-5-12-Pruebas_con_async-await",
+                    "links": [
+                        {
+                            "titulo-link": "Giphy API - Developers",
+                            "link": "https://developers.giphy.com/"
+                        }
+                    ]
+                }
+            },
+            {
+                "14": {
+                    "Titulo": "Evaluar el Catch en el async-await",
+                    "video": "react-5-13-Evaluar_el_Catch_en_el_asycn-await",
+                    "links": {}
+                }
+            },
+            {
+                "15": {
+                    "Titulo": "Pruebas sobre componentes de React",
+                    "video": "react-5-14-Pruebas_sobre_componentes_de_React",
+                    "links": [
+                        {
+                            "titulo-link": "Jest - Get Started",
+                            "link": "https://jestjs.io/docs/getting-started"
+                        },
+                        {
+                            "titulo-link": "Testing Library",
+                            "link": "https://testing-library.com/"
+                        }
+                    ]
+                }
+            },
+            {
+                "16": {
+                    "Titulo": "Pruebas en FirstApp - Componentes de React",
+                    "video": "react-5-15-Pruebas_en_FirstApp_-_Componentes_de_React",
+                    "links": {}
+                }
+            },
+            {
+                "17": {
+                    "Titulo": "Probar FirstApp",
+                    "video": "react-5-16-Probar_FirstApp",
+                    "links": {}
+                }
+            },
+            {
+                "18": {
+                    "Titulo": "getByTestId y otras props",
+                    "video": "react-5-17-getByTestId_y_otras_props",
+                    "links": {}
+                }
+            },
+            {
+                "19": {
+                    "Titulo": "Screen - Testing Library",
+                    "video": "react-5-18-Screen_-_Testing_Library",
+                    "links": {}
+                }
+            },
+            {
+                "20": {
+                    "Titulo": "Pruebas básicas del CounterApp",
+                    "video": "react-5-19-Pruebas_basicas_del_CounterApp",
+                    "links": {}
+                }
+            },
+            {
+                "21": {
+                    "Titulo": "Simular eventos - Click",
+                    "video": "react-5-20-Simular_eventos_-_Click",
+                    "links": {}
+                }
+            },
+            {
+                "22": {
+                    "Titulo": "Código fuente de la sección",
+                    "Texto": "Código fuente de la sección\nAquí les dejo el código fuente de la sección por si lo llegan a necesitar y comparar contra el suyo:\n\nGithub - Fin sección 5",
+                    "links": [
+                        {
+                            "titulo-link": "Github - Fin sección 5",
+                            "link": "https://github.com/Klerith/react-vite-counter-app/tree/fin-seccion-5"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "6": {
+        "sectionName": "Sección 6: GifExpertApp - Aplicación",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción a la sección",
+                    "video": "react-6-01-Introducción a la sección",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Temas puntuales de la sección\n¿Qué veremos en esta sección?\n\nCustom Hooks\n\nFetch hacia un API\n\nComunicación entre componentes\n\nClases de CSS\n\nAnimaciones\n\nEnviar métodos como argumentos\n\nCrear listados\n\nkeys\n\nGiphy\n\nEsta es una aplicación pequeña pero muy ilustrativa que explica cómo utilizar React + customHooks para poder resolver necesidades en específico que podremos reutilizar después."
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "Resultado al final de la sección",
+                    "video": "react-6-03-Resultado_al_final_de_la_seccion",
+                    "links": {}
+                }
+            },
+            {
+                "4": {
+                    "Titulo": "Inicio de proyecto - GifExpertApp",
+                    "video": "react-6-04-Inicio_de_proyecto_-_GifExpertApp",
+                    "links": [
+                        {
+                            "titulo-link": "Giphy API - Developers",
+                            "link": "https://developers.giphy.com/"
+                        }
+                    ]
+                }
+            },
+            {
+                "5": {
+                    "Titulo": "GifExpertApp - Component",
+                    "video": "react-6-05-GifExpertApp_-_Component",
+                    "links": [
+                        {
+                            "titulo-link": "Reactjs.org - Estructura de directorios",
+                            "link": "https://es.legacy.reactjs.org/docs/faq-structure.html"
+                        },
+                        {
+                            "titulo-link": "Estructura, nombres de folders y componentes en React - Hackernoon.com",
+                            "link": "https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76"
+                        },
+                        {
+                            "titulo-link": "Estilos GifExpertApp",
+                            "link": "https://gist.github.com/Klerith/e4fca6ac127ccb9abd1e8ad77fcd52f1"
+                        }
+                    ]
+                }
+            },
+            {
+                "6": {
+                    "Titulo": "Creando una lista de categorias",
+                    "video": "react-6-06-Creando_una_lista_de_categorias",
+                    "links": {}
+                }
+            },
+            {
+                "7": {
+                    "Titulo": "Agregar una nueva categoría",
+                    "video": "react-6-07-Agregar_una_nueva_categoria",
+                    "links": {}
+                }
+            },
+            {
+                "8": {
+                    "Titulo": "Componente AddCategory",
+                    "video": "react-6-08-Componente_AddCategory",
+                    "links": {}
+                }
+            },
+            {
+                "9": {
+                    "Titulo": "Comunicación entre componentes",
+                    "video": "react-6-09-Comunicacion_entre_componentes",
+                    "links": {}
+                }
+            },
+            {
+                "10": {
+                    "Titulo": "Emitir un evento al padre",
+                    "video": "react-6-10-Emitir_un_evento_al_padre",
+                    "links": {}
+                }
+            },
+            {
+                "11": {
+                    "Titulo": "Validar que sean únicos los nombres",
+                    "video": "react-6-11-Validar_que_sean_unicos_los_nombres",
+                    "links": {}
+                }
+            },
+            {
+                "12": {
+                    "Titulo": "GifGrid - Nuevo componente",
+                    "video": "react-6-12-GifGrid_-_Nuevo_componente",
+                    "links": {}
+                }
+            },
+            {
+                "13": {
+                    "Titulo": "Fetch API - Obtener las imágenes deseadas",
+                    "video": "react-6-13-Fetch_API_-_Obtener_las_imagenes_deseadas",
+                    "links": [
+                        {
+                            "titulo-link": "Giphy Developers - Search Endpoint",
+                            "link": "https://developers.giphy.com/docs/api/endpoint/#search"
+                        }
+                    ]
+                }
+            },
+            {
+                "14": {
+                    "Titulo": "useEffect",
+                    "video": "react-6-14-useEffect",
+                    "links": [
+                        {
+                            "titulo-link": "Strict Mode",
+                            "link": "https://reactjs.org/docs/strict-mode.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "15": {
+                    "Titulo": "Demostración de producción rápido",
+                    "video": "react-6-15-Demostracion_de_produccion_rapido",
+                    "links": {}
+                }
+            },
+            {
+                "16": {
+                    "Titulo": "Mostrar los títulos de las imágenes",
+                    "video": "react-6-16-Mostrar_los_titulos_de_las_imagenes",
+                    "links": {}
+                }
+            },
+            {
+                "17": {
+                    "Titulo": "className - Clases de css",
+                    "video": "react-6-17-className_-_Clases_de_css",
+                    "links": {}
+                }
+            },
+            {
+                "18": {
+                    "Titulo": "Custom Hook - useFetchGifs",
+                    "video": "react-6-18-Custom_Hook_-_useFetchGifs",
+                    "links": {}
+                }
+            },
+            {
+                "19": {
+                    "Titulo": "Mostrar mensaje de carga",
+                    "video": "react-6-19-Mostrar_mensaje_de_carga",
+                    "links": {}
+                }
+            },
+            {
+                "20": {
+                    "Titulo": "Archivos de barril",
+                    "video": "react-6-20-Archivos_de_barril",
+                    "links": {}
+                }
+            },
+            {
+                "21": {
+                    "Titulo": "Código fuente de la sección",
+                    "Texto": "Aquí les dejo el código fuente de la sección, tal cual lo dejé en el último video para que puedan compararlo contra el suyo si fuera necesario.",
+                    "links": [
+                        {
+                            "titulo-link": "Github - Fin Seccion 6",
+                            "link": "https://github.com/Klerith/react-vite-gif-expert/tree/fin-seccion-6"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "7": {
+        "sectionName": "Sección 7: Generando el build de producción y despliegues",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción a la sección",
+                    "video": "react-7-01-Introducción a la sección",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Temas puntuales de la sección\n¿Qué veremos en esta sección?\n\nAprender cómo realizar backups a repositorios de Git\n\nSubir nuestro repositorio a GitHub\n\nUso de Github Pages\n\nDesplegar nuestra aplicación de React\n\nGenerar build de producción de nuestra aplicación\n\nAunque es una sección pequeña, les puede servir para desplegar infinidad de proyectos de React de forma gratuita, sin contar que tendrán respaldos de sus proyectos por si llegan a perder su trabajo que tenían localmente en su computadora."
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "Desplegar en Netlify",
+                    "video": "react-7-03-Desplegar_en_Netlify",
+                    "links": {}
+                }
+            },
+            {
+                "4": {
+                    "Titulo": "Preparación del proyecto - Github Pages",
+                    "video": "react-7-04-Preparacion_del_proyecto_-_Github_Pages",
+                    "links": [
+                        {
+                            "titulo-link": "http-server - NPM Package",
+                            "link": "https://www.npmjs.com/package/http-server"
+                        }
+                    ]
+                }
+            },
+            {
+                "5": {
+                    "Titulo": "Subir a GitHub",
+                    "video": "react-7-05-Subir_a_GitHub",
+                    "links": {}
+                }
+            },
+            {
+                "6": {
+                    "Titulo": "Desplegando aplicación en Github Pages",
+                    "video": "react-7-06-Desplegando_aplicacion_en_Github_Pages",
+                    "links": [
+                        {
+                            "titulo-link": "Configurar name y el email en Git",
+                            "link": "https://docs.github.com/en/enterprise/2.13/user/articles/setting-your-username-in-git"
+                        },
+                        {
+                            "titulo-link": "Github - Website",
+                            "link": "https://github.com/"
+                        }
+                    ]
+                }
+            },
+            {
+                "7": {
+                    "Titulo": "Actualizar Github pages",
+                    "video": "react-7-07-Actualizar_Github_pages",
+                    "links": {}
+                }
+            }
+        ]
+    },
+    "8": {
+        "sectionName": "Sección 8: Testing - Probando la aplicación de GifExpert",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción a la sección",
+                    "video": "react-8-01-Introducción a la sección",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Temas puntuales de la sección\n¿Qué veremos en esta sección?\n\nSeguir el camino de las pruebas\n\nPruebas en componentes específicos\n\nPruebas en componentes de forma individual\n\nPruebas con customHooks\n\nEsperar cambios en un customHook\n\nSimular eventos en inputs y formularios\n\nSimular llamadas a funciones\n\nEvaluar si existen elementos en el componente\n\nEn esta sección seguiremos expandiendo todo lo que habíamos visto anteriormente en otras secciones de pruebas, pero ahora veremos más a detalle los temas y adicionalmente introduciremos nuevos conceptos y nuevos tipos de pruebas."
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "Configurar el ambiente de pruebas",
+                    "video": "react-8-03-Configurar_el_ambiente_de_pruebas",
+                    "links": [
+                        {
+                            "titulo-link": "Testing Library + Vite + Jest",
+                            "link": "https://gist.github.com/Klerith/ca7e57fae3c9ab92ad08baadc6c26177"
+                        }
+                    ]
+                }
+            },
+            {
+                "4": {
+                    "Titulo": "Implementando PropTypes",
+                    "video": "react-8-04-Implementando_PropTypes",
+                    "links": {}
+                }
+            },
+            {
+                "5": {
+                    "Titulo": "Resolución de la tarea",
+                    "video": "react-8-05-Resolucion_de_la_tarea",
+                    "links": {}
+                }
+            },
+            {
+                "6": {
+                    "Titulo": "Pruebas del componente - GifGridItem",
+                    "video": "react-8-06-Pruebas_del_componente_-_GifGridItem",
+                    "links": {}
+                }
+            },
+            {
+                "7": {
+                    "Titulo": "Pruebas en el helper getGifs",
+                    "video": "react-8-07-Pruebas_en_el_helper_getGifs",
+                    "links": {}
+                }
+            },
+            {
+                "8": {
+                    "Titulo": "Pruebas del componente - AddCategory",
+                    "video": "react-8-08-Pruebas_del_componente_-_AddCategory",
+                    "links": {}
+                }
+            },
+            {
+                "9": {
+                    "Titulo": "Simular un submit del formulario",
+                    "video": "react-8-09-Simular_un_submit_del_formulario",
+                    "links": {}
+                }
+            },
+            {
+                "10": {
+                    "Titulo": "Jest Functions",
+                    "video": "react-8-10-Jest_Functions",
+                    "links": {}
+                }
+            },
+            {
+                "11": {
+                    "Titulo": "Pruebas del componente GifGrid - Mock customHook",
+                    "video": "react-8-11-Pruebas_del_componente_GifGrid_-_Mock_customHook",
+                    "links": {}
+                }
+            },
+            {
+                "12": {
+                    "Titulo": "Hacer un mock completo de un Custom Hook",
+                    "video": "react-8-12-Hacer_un_mock_completo_de_un_Custom_Hook",
+                    "links": {}
+                }
+            },
+            {
+                "13": {
+                    "Titulo": "Pruebas sobre customHooks",
+                    "video": "rreact-8-13-Pruebas_sobre_customHooks",
+                    "links": [
+                        {
+                            "titulo-link": "react-hooks-testing-library.com",
+                            "link": "https://react-hooks-testing-library.com/"
+                        }
+                    ]
+                }
+            },
+            {
+                "14": {
+                    "Titulo": "Pruebas de tarea",
+                    "video": "react-8-14-Pruebas_de_tarea",
+                    "links": {}
+                }
+            },
+            {
+                "15": {
+                    "Titulo": "Código fuente de la sección",
+                    "Texto": "Código fuente de la sección\nAquí les dejo el código fuente de la secció por si la llegan a necesitar o comparar contra la mía",
+                    "links": [
+                        {
+                            "titulo-link": "Github - Fin sección 8",
+                            "link": "https://github.com/Klerith/react-gif-expert/tree/fin-seccion-8"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "9": {
+        "sectionName": "Sección 9: Profundizando Hooks - Generales",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción a la sección",
+                    "video": "react-9-01-Introducción a la sección",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Temas puntuales de la sección\n¿Qué veremos en esta sección?\n\nProfundizar en el tema de los Hooks\n\nCrear otros customHooks\n\nuseState\n\nuseCounter - Personalizado\n\nuseEffect y sus precauciones\n\nuseRef\n\nuseFetch - Personalizado + optimizaciones\n\nuseLayoutEffect\n\nMemo\n\nuseMemo\n\nuseCallback\n\nEstos son los Hooks relativamente simples, aún hay más que explicaremos más adelante, pero en esta sección nos enfocaremos en estos trabajos y para qué nos pueden servir.\n\nAdicionalmente estaremos dejando las bases para lo que será una sección de pruebas sumamente interesante después."
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "Inicio de proyecto - HooksApp",
+                    "video": "react-9-03-Inicio_de_proyecto_-_HooksApp",
+                    "links": [
+                        {
+                            "titulo-link": "getBootstrap.com - Sitio oficial",
+                            "link": "https://getbootstrap.com/"
+                        }
+                    ]
+                }
+            },
+            {
+                "4": {
+                    "Titulo": "useState",
+                    "video": "react-9-04-useState",
+                    "links": {}
+                }
+            },
+            {
+                "5": {
+                    "Titulo": "useCounter - CustomHook",
+                    "video": "react-9-05-useCounter_-_CustomHook",
+                    "links": {}
+                }
+            },
+            {
+                "6": {
+                    "Titulo": "Exponer métodos del Hook",
+                    "video": "react-9-06-Exponer_metodos_del_Hook",
+                    "links": {}
+                }
+            },
+            {
+                "7": {
+                    "Titulo": "useEffect - SimpleForm",
+                    "video": "react-9-07-useEffect_-_SimpleForm",
+                    "links": {}
+                }
+            },
+            {
+                "8": {
+                    "Titulo": "Dependencias del useEffect",
+                    "video": "react-9-08-Dependencias_del_useEffect",
+                    "links": {}
+                }
+            },
+            {
+                "9": {
+                    "Titulo": "useEffect unmount - Cleanup",
+                    "video": "react-9-09-useEffect_unmount_-_Cleanup",
+                    "links": {}
+                }
+            },
+            {
+                "10": {
+                    "Titulo": "useEffect - Precauciones",
+                    "video": "react-9-10-useEffect_-_Precauciones",
+                    "links": {}
+                }
+            },
+            {
+                "11": {
+                    "Titulo": "Formulario con custom Hook",
+                    "video": "react-9-11-Formulario_con_custom_Hook",
+                    "links": {}
+                }
+            },
+            {
+                "12": {
+                    "Titulo": "Tarea - Implementar funcionalidad de Reset",
+                    "video": "react-9-12-Tarea_-_Implementar_funcionalidad_de_Reset",
+                    "links": {}
+                }
+            },
+            {
+                "13": {
+                    "Titulo": "useFetch - CustomHook",
+                    "video": "react-9-13-useFetch_-_CustomHook",
+                    "links": [
+                        {
+                            "titulo-link": "breakingbadapi.com - API",
+                            "link": "https://breakingbadapi.com/"
+                        }
+                    ]
+                }
+            },
+            {
+                "14": {
+                    "Titulo": "useFetch + useCounter",
+                    "video": "react-9-14-useFetch_useCounter",
+                    "links": {}
+                }
+            },
+            {
+                "15": {
+                    "Titulo": "Conectando ambos Hooks",
+                    "video": "react-9-15-Conectando_ambos_Hooks",
+                    "links": {}
+                }
+            },
+            {
+                "16": {
+                    "Titulo": "Optimizaciones al código anterior",
+                    "video": "react-9-16-Optimizaciones_al_codigo_anterior",
+                    "links": {}
+                }
+            },
+            {
+                "17": {
+                    "Titulo": "useRef - Primer uso",
+                    "video": "react-9-17-useRef_-_Primer_uso",
+                    "links": {}
+                }
+            },
+            {
+                "18": {
+                    "Titulo": "useLayoutEffect",
+                    "video": "react-9-18-useLayoutEffect",
+                    "links": [
+                        {
+                            "titulo-link": "useLayoutEffect - React docs",
+                            "link": "https://es.legacy.reactjs.org/docs/hooks-reference.html#uselayouteffect"
+                        }
+                    ]
+                }
+            },
+            {
+                "19": {
+                    "Titulo": "Memo - Método de React",
+                    "video": "react-9-20-useMemo",
+                    "links": {}
+                }
+            },
+            {
+                "20": {
+                    "Titulo": "useMemo",
+                    "video": "react-9-21-useMemo",
+                    "links": {}
+                }
+            },
+            {
+                "21": {
+                    "Titulo": "useCallback",
+                    "video": "react-9-22-useCallback",
+                    "links": {}
+                }
+            },
+            {
+                "22": {
+                    "Titulo": "useCallback con argumentos",
+                    "video": "react-9-23-useCallback_con_argumentos",
+                    "links": {}
+                }
+            },
+            {
+                "23": {
+                    "Titulo": "Tarea Memorize",
+                    "video": "react-9-24-Tarea_Memorize",
+                    "links": [
+                        {
+                            "titulo-link": "07-tarea-memo.zip",
+                            "link": "https://import.cdn.thinkific.com/643563/courses/1901683/07tareamemo-220620-120357.zip"
+                        }
+                    ]
+                }
+            },
+            {
+                "24": {
+                    "Titulo": "Código fuente de la sección",
+                    "Texto": "Código fuente de la sección\nCódigo de la sección\nAquí les dejo el código fuente de la sección, lo pueden descargar del material adjunto o bien ir al repositorio de Github para tenerlo a la mano o clonarlo si lo quieren tener en su cuenta de Github\n\n\nNota:\n\nEspero que esta sección les gustara, especialmente para entrar en calor de todo lo que podemos hacer con los Hooks de React, tanto los creados por ellos como los personalizados que podemos hacer nosotros, aún faltan más Hooks que ver...\n\nSi el curso les está gustando, por favor, no se olviden de calificar el curso y ponerme 5 estrellas! eso me ayudaría mucho, nuevamente gracias por todo su apoyo que me permite seguir creando cursos como estos.",
+                    "links": [
+                        {
+                            "titulo-link": "Fin sección 9 - Hooks en detalle",
+                            "link": "https://github.com/Klerith/react-hooks/tree/fin-seccion-9"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "10": {
+        "sectionName": "Sección 10: Profundizando Hooks - useReducer",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción a la sección",
+                    "video": "react-10-01-Introducción a la sección",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Temas puntuales de la sección\n¿Qué veremos en esta sección?\n\nuseReducer\n\nReducers\n\nTeoría de un reducer\n\nAplicación de TODOs\n\nCRUD local\n\nEsta es una sección dedicada a comprender el concepto de un Reducer, el cual es sumamente importante para poder entrar a Redux o bien usar el contextAPI fácilmente."
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "Introducción al concepto de un reducer",
+                    "video": "react-10-03-Introduccion_al_concepto_de_un_reducer",
+                    "links": {}
+                }
+            },
+            {
+                "4": {
+                    "Titulo": "Continuación del Proyecto - HookApp",
+                    "video": "react-10-04-Continuacion_del_Proyecto_HookApp",
+                    "links": {}
+                }
+            },
+            {
+                "5": {
+                    "Titulo": "Idea general de un reducer - Vía código",
+                    "video": "react-10-05-Idea_general_de_un_reducer_-_Via_codigo",
+                    "links": {}
+                }
+            },
+            {
+                "6": {
+                    "Titulo": "useReducer - Todo List",
+                    "video": "react-10-06-useReducer_-_Todo_List",
+                    "links": [
+                        {
+                            "titulo-link": "useReducer - React Docs",
+                            "link": "https://es.legacy.reactjs.org/docs/hooks-reference.html#usereducer"
+                        }
+                    ]
+                }
+            },
+            {
+                "7": {
+                    "Titulo": "Creando el cascarón de la lista de TODO",
+                    "video": "react-10-07-Creando_el_cascaron_de_la_lista_de_TODO",
+                    "links": {}
+                }
+            },
+            {
+                "8": {
+                    "Titulo": "Tarea: Crear componentes y emitir eventos",
+                    "video": "react-10-08-Tarea_Crear_componentes_y_emitir_eventos",
+                    "links": {}
+                }
+            },
+            {
+                "9": {
+                    "Titulo": "Resolución de la tarea - TodoApp",
+                    "video": "react-10-09-Resolucion_de_la_tarea_-_TodoApp",
+                    "links": {}
+                }
+            },
+            {
+                "10": {
+                    "Titulo": "Agregar un nuevo TODO",
+                    "video": "react-10-10-Agregar_un_nuevo_TODO",
+                    "links": {}
+                }
+            },
+            {
+                "11": {
+                    "Titulo": "Guardar y Leer TODOs en LocalStorage",
+                    "video": "react-10-11-Guardar_y_Leer_TODOs_en_LocalStorage",
+                    "links": [
+                        {
+                            "titulo-link": "Youtube - Fernando Herrera - LocalStorage",
+                            "link": "https://www.youtube.com/watch?v=hb8O0qRqiSk&t=2s"
+                        }
+                    ]
+                }
+            },
+            {
+                "12": {
+                    "Titulo": "Borrar un TODO",
+                    "video": "react-10-12-Borrar_un_TODO",
+                    "links": {}
+                }
+            },
+            {
+                "13": {
+                    "Titulo": "Toggle Todo - Marcar como completado o pendiente un TODO",
+                    "video": "react-10-13-Toggle_Todo_-_Marcar_como_completado_o_pendiente_un_TODO",
+                    "links": {}
+                }
+            },
+            {
+                "14": {
+                    "Titulo": "Tarea - useTodo",
+                    "video": "react-10-14-Tarea_-_useTodo",
+                    "links": {}
+                }
+            },
+            {
+                "15": {
+                    "Titulo": "Resolución de la tarea - useTodos",
+                    "video": "react-10-15-Resolucion_de_la_tarea_-_useTodos",
+                    "links": {}
+                }
+            },
+            {
+                "16": {
+                    "Titulo": "Código fuente de la sección",
+                    "Texto": "Código fuente de la sección\nAquí les dejo el código fuente de la sección tal cual lo dejé al final de la última clase, espero que estemos aprendiendo mucho y sobre todo que cada vez comprendamos cómo funcionan los Hooks.",
+                    "links": [
+                        {
+                            "titulo-link": "GitHub - Fin sección 10",
+                            "link": "https://github.com/Klerith/react-hooks/tree/fin-seccion-10"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "11": {
+        "sectionName": "Sección 11: Profundizando Hooks - useContext",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción a la sección",
+                    "video": "react-11-01-Introducción a la sección",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Temas puntuales de la sección\n¿Qué veremos en esta sección?\n\nuseReducer\n\nReducers\n\nTeoría de un reducer\n\nAplicación de TODOs\n\nCRUD local\n\nEsta es una sección dedicada a comprender el concepto de un Reducer, el cual es sumamente importante para poder entrar a Redux o bien usar el contextAPI fácilmente."
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "Introducción al Context",
+                    "video": "react-11-03-Introduccion_al_Context",
+                    "links": {}
+                }
+            },
+            {
+                "4": {
+                    "Titulo": "Preparación de nuestra aplicación con rutas",
+                    "video": "react-11-04-Preparacion_de_nuestra_aplicacion_con_rutas",
+                    "links": [
+                        {
+                            "titulo-link": "ReactRouter - Docs",
+                            "link": "https://v5.reactrouter.com/web/api/NavLink"
+                        },
+                        {
+                            "titulo-link": "reactrouter.com - Latest Version",
+                            "link": "https://reactrouter.com/en/main"
+                        }
+                    ]
+                }
+            },
+            {
+                "5": {
+                    "Titulo": "Configurar Router en React",
+                    "video": "react-11-05-Configurar_Router_en_React",
+                    "links": [
+                        {
+                            "titulo-link": "React Router - Docs",
+                            "link": "https://v5.reactrouter.com/web/guides/quick-start"
+                        }
+                    ]
+                }
+            },
+            {
+                "6": {
+                    "Titulo": "Link",
+                    "video": "react-11-06-Link",
+                    "links": {}
+                }
+            },
+            {
+                "7": {
+                    "Titulo": "NavLink",
+                    "video": "react-11-07-NavLink",
+                    "links": {}
+                }
+            },
+            {
+                "8": {
+                    "Titulo": "CreateContext y ContextProvider",
+                    "video": "react-11-08-CreateContext_y_ContextProvider",
+                    "links": {}
+                }
+            },
+            {
+                "9": {
+                    "Titulo": "useContext",
+                    "video": "react-11-09-useContext",
+                    "links": {}
+                }
+            },
+            {
+                "10": {
+                    "Titulo": "useContext",
+                    "Texto": "Código fuente de la sección\nAquí les dejo el código fuente de la sección por si lo llegan a necesitar.",
+                    "links": [
+                        {
+                            "titulo-link": "Github- Fin sección 11",
+                            "link": "https://github.com/Klerith/react-hooks/tree/fin-seccion-11"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "12": {
+        "sectionName": "Sección 12: Pruebas unitarias y de integración - Hooks",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción a la sección",
+                    "video": "react-12-01-Introducción a la sección",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Temas puntuales de la sección\n¿Qué veremos en esta sección?\n\nPruebas sobre Hooks y CustomHooks\n\nEse es el tema principal, demostrar cómo podemos evaluar cada unos de los hooks aplicados anteriormente con sus casos reales de uso.\n\nHay varios extras, como la prueba de un Reducer, que realmente no es nada complicado, también quiero aclarar qué nos toca evaluar a nosotros y qué no es responsabilidad nuestra."
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "Inicio de proyecto - Pruebas sobre Hooks",
+                    "video": "react-12-03-Inicio_de_proyecto_-_Pruebas_sobre_Hooks",
+                    "links": [
+                        {
+                            "titulo-link": "Configuración Vite + Jest + Testing Library",
+                            "link": "https://gist.github.com/Klerith/ca7e57fae3c9ab92ad08baadc6c26177"
+                        }
+                    ]
+                }
+            },
+            {
+                "4": {
+                    "Titulo": "Pruebas sobre useCounter - CustomHook",
+                    "video": "react-12-04-Pruebas_sobre_useCounter_-_CustomHook",
+                    "links": {}
+                }
+            },
+            {
+                "5": {
+                    "Titulo": "Ejecutar funciones del customHook dentro de las pruebas",
+                    "video": "react-12-05-Ejecutar_funciones_del_customHook_dentro_de_las_pruebas",
+                    "links": {}
+                }
+            },
+            {
+                "6": {
+                    "Titulo": "Pruebas sobre useForm - CustomHook",
+                    "video": "react-12-06-Pruebas_sobre_useForm_-_CustomHook",
+                    "links": {}
+                }
+            },
+            {
+                "7": {
+                    "Titulo": "Pruebas con múltiples hooks simultáneos",
+                    "video": "react-12-07-Pruebas_con_multiples_hooks_simultaneos",
+                    "links": {}
+                }
+            },
+            {
+                "8": {
+                    "Titulo": "Evaluar respuesta del useFetch",
+                    "video": "react-12-08-Evaluar_respuesta_del_useFetch",
+                    "links": {}
+                }
+            },
+            {
+                "9": {
+                    "Titulo": "Pruebas sobre el Reducer",
+                    "video": "react-12-09-Pruebas_sobre_el_Reducer",
+                    "links": {}
+                }
+            },
+            {
+                "10": {
+                    "Titulo": "Resolución de la tarea",
+                    "video": "react-12-10-Resolucion_de_la_tarea",
+                    "links": {}
+                }
+            },
+            {
+                "11": {
+                    "Titulo": "Pruebas en el componente TodoItem",
+                    "video": "react-12-11-Pruebas_en_el_componente_TodoItem",
+                    "links": {}
+                }
+            },
+            {
+                "12": {
+                    "Titulo": "Pruebas en los eventos del TodoItem",
+                    "video": "react-12-12-Pruebas_en_los_eventos_del_TodoItem",
+                    "links": {}
+                }
+            },
+            {
+                "13": {
+                    "Titulo": "Pruebas en el TodoApp",
+                    "video": "react-12-13-Pruebas_en_el_TodoApp",
+                    "links": {}
+                }
+            },
+            {
+                "14": {
+                    "Titulo": "Pruebas con useContext",
+                    "video": "react-12-14-Pruebas_con_useContext",
+                    "links": {}
+                }
+            },
+            {
+                "15": {
+                    "Titulo": "Pruebas de funciones del context",
+                    "video": "react-12-15-Pruebas_de_funciones_del_context",
+                    "links": {}
+                }
+            },
+            {
+                "16": {
+                    "Titulo": "Pruebas generales en nuestro AppRouter",
+                    "video": "react-12-16-Pruebas_generales_en_nuestro_Router",
+                    "links": [
+                        {
+                            "titulo-link": "React Router - Testing Docs",
+                            "link": "https://v5.reactrouter.com/web/guides/testing"
+                        }
+                    ]
+                }
+            },
+            {
+                "17": {
+                    "Titulo": "Código fuente de la sección",
+                    "Texto": "Código fuente de la sección\nAquí les dejo el código tal cual lo deje en la siguiente clase, espero les sirva y lo usen para comparar contra el suyo:"
+                }
+            }
+        ]
+    },
+    "13": {
+        "sectionName": "Sección 13: Bonus: Repositorio de Custom Hooks",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción a la sección",
+                    "video": "react-13-01-Introducción a la sección",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Temas puntuales de la sección\n¿Qué veremos en esta sección?\n\nSubir código a nuestro repositorio\n\nTener un listado de customHooks y código que podemos reutilizar\n\nUna idea para mantener tu repositorio ordenado con ejemplos\n\nNo es una sección obligatoria, pero puede ayudarles a tener su código ordenado y fácil de utilizar en proyectos futuros."
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "Repositorio con customHooks",
+                    "video": "react-13-03-Repositorio_con_customHooks",
+                    "links": [
+                        {
+                            "titulo-link": "Github",
+                            "link": "https://github.com/"
+                        }
+                    ]
+                }
+            },
+            {
+                "4": {
+                    "Titulo": "Mejorando la estructura y ayuda de los Hooks",
+                    "video": "react-13-04-Mejorando_la_estructura_y_ayuda_de_los_Hooks",
+                    "links": {}
+                }
+            },
+            {
+                "5": {
+                    "Titulo": "Mejorando la estructura y ayuda de los Hooks",
+                    "Texto": "Código fuente de la sección\nAquí les dejo el repositorio del proyecto por si acaso lo llegan a necesitar.",
+                    "links": [
+                        {
+                            "titulo-link": "Gisthub - Repositorio de custom hooks",
+                            "link": "https://github.com/Klerith/custom-hooks"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "14": {
+        "sectionName": "Sección 14: HeroesApp - Single Page Application (SPA)",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción a la sección",
+                    "video": "react-14-01-Introducción a la sección",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Temas puntuales de la sección\n¿Qué veremos en esta sección?\n\nSPA ( Single Page Application ) a profundidad\n\nDiferentes temas en la misma aplicación aplicados a diferentes rutas\n\nMultiples Routers\n\nPush y Replace en el History\n\nLeer argumentos por URL\n\nQueryParams\n\nAplicar filtros utilizando QueryStrings\n\nEn esta sección aún no haremos protección de rutas, pero dejaremos el estilo de esos componentes listos para la siguiente sección.\n\nAquí quiero enfocarme en la funcionalidad de la aplicación suponiendo que estamos autenticados."
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "Demostración del objetivo al final de la sección",
+                    "video": "react-14-03-Demostracion_del_objetivo_final_de_la_seccion",
+                    "links": {}
+                }
+            },
+            {
+                "4": {
+                    "Titulo": "Inicio de proyecto - HeroesApp",
+                    "video": "react-14-04-Inicio_de_proyecto_-_HeroesApp",
+                    "links": [
+                        {
+                            "titulo-link": "heroes.zip",
+                            "link": "https://import.cdn.thinkific.com/643563/courses/1901683/heroes-220621-112204.zip"
+                        }
+                    ]
+                }
+            },
+            {
+                "5": {
+                    "Titulo": "Nota de Actualización - React Router Docs",
+                    "Texto": "Nota de Actualización - React Router Docs\nAntes de iniciar con el siguiente video, la documentación que se presenta en React router docs ha sido actualizada(6.X.X) y ya no se ofrece el mismo quick start.\nPara efectos del curso, te recomendamos seguir con la configuración que se presenta en el video de la siguiente lección. ",
+                    "links": {}
+                }
+            },
+            {
+                "6": {
+                    "Titulo": "Creando un primer Router",
+                    "video": "react-14-06-Creando_un_primer_Router",
+                    "links": [
+                        {
+                            "titulo-link": "Gist - Navbar",
+                            "link": "https://gist.github.com/Klerith/566b484ac6fe46c8fa949e61df671a18"
+                        },
+                        {
+                            "titulo-link": "React Router - Docs",
+                            "link": "https://reactrouter.com/en/6.4.4/start/tutorial#setup"
+                        },
+                        {
+                            "titulo-link": "https://reactrouter.com/ - Versión 6",
+                            "link": "https://reactrouter.com/en/main"
+                        },
+                        {
+                            "titulo-link": "Migrar de React Router v5 a v6",
+                            "link": "https://www.youtube.com/watch?v=FR7x0tqwafc"
+                        }
+                    ]
+                }
+            },
+            {
+                "7": {
+                    "Titulo": "Colocar clase de la ruta activa",
+                    "video": "react-14-07-Colocar_clase_de_la_ruta_activa",
+                    "links": {}
+                }
+            },
+            {
+                "8": {
+                    "Titulo": "Creando un segundo Router",
+                    "video": "react-14-08-Creando_un_segundo_Router",
+                    "links": {}
+                }
+            },
+            {
+                "9": {
+                    "Titulo": "Navigate push / replace - useNavigate",
+                    "video": "react-14-09-Navigate_push_replace_-_useNavigate",
+                    "links": {}
+                }
+            },
+            {
+                "10": {
+                    "Titulo": "Lista de Heroes",
+                    "video": "react-14-10-Lista_de_Heroes",
+                    "links": [
+                        {
+                            "titulo-link": "HeroesList - Data",
+                            "link": "https://gist.github.com/Klerith/934da045caae0fec3a1067d013926c46"
+                        }
+                    ]
+                }
+            },
+            {
+                "11": {
+                    "Titulo": "Tarjetas con la información del Héroe",
+                    "video": "react-14-11-Tarjetas_con_la_informacion_del_Heroe",
+                    "links": {}
+                }
+            },
+            {
+                "12": {
+                    "Titulo": "Tarjeta del Héroe - parte 2",
+                    "video": "react-14-12-Tarjeta_del_Heroe_-_parte_2",
+                    "links": {}
+                }
+            },
+            {
+                "13": {
+                    "Titulo": "Leer argumentos por URL",
+                    "video": "react-14-13-Leer_argumentos_por_URL",
+                    "links": {}
+                }
+            },
+            {
+                "14": {
+                    "Titulo": "Estilo del componente HeroScreen",
+                    "video": "react-14-14-Estilo_del_componente_HeroScreen",
+                    "links": {}
+                }
+            },
+            {
+                "15": {
+                    "Titulo": "Nota: useMemo",
+                    "video": "react-14-15-Nota_useMemo",
+                    "links": {}
+                }
+            },
+            {
+                "16": {
+                    "Titulo": "Animaciones en nuestro componente",
+                    "video": "react-14-16-Animaciones_en_nuestro_componente",
+                    "links": [
+                        {
+                            "titulo-link": "animate.css",
+                            "link": "https://animate.style/"
+                        }
+                    ]
+                }
+            },
+            {
+                "17": {
+                    "Titulo": "Diseño de la pantalla de búsqueda",
+                    "video": "react-14-17-Diseno_de_la_pantalla_de_busqueda",
+                    "links": {}
+                }
+            },
+            {
+                "18": {
+                    "Titulo": "SearchComponent",
+                    "video": "react-14-18-SearchComponent",
+                    "links": [
+                        {
+                            "titulo-link": "useForm.js",
+                            "link": "https://github.com/Klerith/custom-hooks/blob/main/useForm/useForm.js"
+                        }
+                    ]
+                }
+            },
+            {
+                "19": {
+                    "Titulo": "Mostrar listado de héroes",
+                    "video": "react-14-19-Mostrar_listado_de_heroes",
+                    "links": {}
+                }
+            },
+            {
+                "20": {
+                    "Titulo": "Mostrar mensajes condicionales",
+                    "video": "react-14-20-Mostrar_mensajes_condicionales",
+                    "links": {}
+                }
+            },
+            {
+                "21": {
+                    "Titulo": "Nota de actualización - Error imágenes producción",
+                    "Texto": "Si quieren hacer el build de la app para hacer el deploy, si se fijan verán que los assets con las imágenes no se copian automáticamente a la carpeta dist con el build de producción.\n\nEsto es debido a Vite y como estamos creando las URL's de las imágenes en HeroCard.jsx.\n\nSi importamos directamente una imagen con import imgUrl from '/assets/heroes/marvel-spider.jpg', Vite se encargará de gestionarlo y añadirá el archivo al build de producción, pero nosotros estamos creando la URL con const heroImageUrl = `/assets/heroes/${ id }.jpg`;, de ahí que Vite no las copie automáticamente.\n\nLa solución sería crear una carpeta llamada public en la raíz del proyecto (al mismo nivel que package.json o index.html) y dentro de esta carpeta mover la carpeta heroes que contiene todas las imágenes.\n\nDe esta forma ya añadimos la carpeta heroes al build de producción.\n\nPara acceder a \"public\" tenemos que usar la ruta raíz /, por lo que ahora modificaremos la URL de heroImageUrl en el archivo HeroCard.jsx quedando: const heroImageUrl = `/heroes/${ id }.jpg`;.\n\nDe esta forma ya se copian automáticamente las imágenes, y funciona nuestra app tanto en desarrollo como producción.\n\nSi quieren leer más sobre los assets y cómo manejarlos en Vite: https://vitejs.dev/guide/assets.html.",
+                    "links": [
+                        {
+                            "titulo-link": "Vite",
+                            "link": "https://vitejs.dev/guide/assets.html."
+                        }
+                    ]
+                }
+            },
+            {
+                "22": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Código fuente de la sección\nAquí les dejo el código fuente tal cual lo dejé al final de la clase anterior, por si lo necesitan comparar contra el mío.",
+                    "links": "Github - Fin sección 14"
+                }
+            }
+        ]
+    },
+    "15": {
+        "sectionName": "Sección 15: Protección de rutas",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción a la sección",
+                    "video": "react-15-01-Introducción a la sección",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Temas puntuales de la sección\n¿Qué veremos en esta sección?\n\nSubir código a nuestro repositorio\n\nTener un listado de customHooks y código que podemos reutilizar\n\nUna idea para mantener tu repositorio ordenado con ejemplos\n\nNo es una sección obligatoria, pero puede ayudarles a tener su código ordenado y fácil de utilizar en proyectos futuros."
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "Demostración del objetivo al final de la sección",
+                    "video": "react-15-03-Demostracion_del_objetivo_al_final_de_la_seccion",
+                    "links": {}
+                }
+            },
+            {
+                "4": {
+                    "Titulo": "Continuación de proyecto - Protección de Rutas",
+                    "video": "react-15-04-Continuacion_de_proyecto_-_Proteccion_de_Rutas",
+                    "links": {}
+                }
+            },
+            {
+                "5": {
+                    "Titulo": "Context y Reducer de mi aplicación",
+                    "video": "react-15-05-Context_y_Reducer_de_mi_aplicacion",
+                    "links": {}
+                }
+            },
+            {
+                "6": {
+                    "Titulo": "Login de un usuario",
+                    "video": "react-15-06-Login_de_un_usuario",
+                    "links": {}
+                }
+            },
+            {
+                "7": {
+                    "Titulo": "Mantener el usuario activo",
+                    "video": "react-15-07-Mantener_el_usuario_activo",
+                    "links": {}
+                }
+            },
+            {
+                "8": {
+                    "Titulo": "Logout del usuario",
+                    "video": "react-15-08-Logout_del_usuario",
+                    "links": {}
+                }
+            },
+            {
+                "9": {
+                    "Titulo": "Rutas privadas",
+                    "video": "react-15-09-Rutas_privadas",
+                    "links": {}
+                }
+            },
+            {
+                "10": {
+                    "Titulo": "Rutas públicas",
+                    "video": "react-15-10-Rutas_publicas",
+                    "links": {}
+                }
+            },
+            {
+                "11": {
+                    "Titulo": "Recordar la última página visitada",
+                    "video": "react-15-11-Recordar_la_ultima_pagina_visitada",
+                    "links": {}
+                }
+            },
+            {
+                "12": {
+                    "Titulo": "Código fuente de la sección",
+                    "Texto": "Código fuente de la sección\nAquí tienen mi código fuente por si lo necesitan comparar contra el suyo",
+                    "links": [
+                        {
+                            "titulo-link": "GitHub - Fin sección 15",
+                            "link": "https://github.com/Klerith/react-heroes/tree/fin-seccion-15"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "16": {
+        "sectionName": "Sección 16: Pruebas de nuestra aplicación de Heroes",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción a la sección",
+                    "video": "react-16-01-Introducción a la sección",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Temas puntuales de la sección\n¿Qué veremos en esta sección?\n\nNuevos tipos de pruebas\n\nPruebas en rutas privadas y públicas\n\nMemoryRouter\n\nPruebas en nuestro DashboardRouter\n\nPruebas en el AppRouter\n\nSimular URLs y segmentos\n\nSimular queryParams y queryStrings\n\nRecuerden que el objetivo de las pruebas, es ir probando cosas nuevas cada vez y tener un repertorio completo de diferentes casos."
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "Inicio de la sección - Pruebas en HeroApp",
+                    "video": "react-16-03-Inicio_de_la_seccion_-_Pruebas_en_HeroApp",
+                    "links": [
+                        {
+                            "titulo-link": "Gist - Configuración de pruebas",
+                            "link": "https://gist.github.com/Klerith/ca7e57fae3c9ab92ad08baadc6c26177"
+                        }
+                    ]
+                }
+            },
+            {
+                "4": {
+                    "Titulo": "Pruebas en el authReducer",
+                    "video": "react-16-04-Pruebas_en_el_authReducer",
+                    "links": {}
+                }
+            },
+            {
+                "5": {
+                    "Titulo": "Pruebas sobre los Types",
+                    "video": "react-16-05-Pruebas_sobre_los_Types",
+                    "links": {}
+                }
+            },
+            {
+                "6": {
+                    "Titulo": "Pruebas en el PublicRoute",
+                    "video": "react-16-06-Pruebas_en_el_PublicRoute",
+                    "links": {}
+                }
+            },
+            {
+                "7": {
+                    "Titulo": "Pruebas en el PublicRoute - Parte 2",
+                    "video": "react-16-07-Pruebas_en_el_PublicRoute_-_Parte_2",
+                    "links": {}
+                }
+            },
+            {
+                "8": {
+                    "Titulo": "Pruebas en el PrivateRoute",
+                    "video": "react-16-08-Pruebas_en_el_PrivateRoute",
+                    "links": {}
+                }
+            },
+            {
+                "9": {
+                    "Titulo": "Pruebas en el AppRouter",
+                    "video": "react-16-09-Pruebas_en_el_AppRouter",
+                    "links": {}
+                }
+            },
+            {
+                "10": {
+                    "Titulo": "Pruebas en el NavBar",
+                    "video": "react-16-10-Pruebas_en_el_NavBar",
+                    "links": {}
+                }
+            },
+            {
+                "11": {
+                    "Titulo": "Solución de la tarea",
+                    "video": "react-16-11-Solucion_de_la_tarea",
+                    "links": {}
+                }
+            },
+            {
+                "12": {
+                    "Titulo": "Pruebas en el SearchScreen",
+                    "video": "react-16-12-Pruebas_en_el_SearchScreen",
+                    "links": {}
+                }
+            },
+            {
+                "13": {
+                    "Titulo": "Pruebas con los queryParameters",
+                    "video": "react-16-13-Pruebas_con_los_queryParameters",
+                    "links": {}
+                }
+            },
+            {
+                "14": {
+                    "Titulo": "Tarea - requireActual",
+                    "video": "react-16-14-Tarea_-_requireActual",
+                    "links": {}
+                }
+            },
+            {
+                "15": {
+                    "Titulo": "Resumen de las pruebas realizadas",
+                    "video": "react-16-15-Resumen_de_las_pruebas_realizadas",
+                    "links": {}
+                }
+            },
+            {
+                "16": {
+                    "Titulo": "Código fuente de la sección",
+                    "Texto": "Código fuente de la sección\nAquí les dejo mi código fuente para que lo puedan evaluar contra el suyo. O bien tenerlo como parte de su repertorio de pruebas y aplicaciones hechas en React",
+                    "links": [
+                        {
+                            "titulo-link": "GitHub - Fin sección 16",
+                            "link": "https://github.com/Klerith/react-heroes/tree/fin-seccion-16"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "17": {
+        "sectionName": "Sección 17: JournalApp - MaterialUI - Estructura y Diseño",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción a la sección",
+                    "video": "react-17-01-Introducción a la sección",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Demostración del objetivo final de la sección",
+                    "Texto": "Temas puntuales de la sección\n¿Qué veremos en esta sección?\n\nMaterial UI\n\nDiferentes componentes de material\n\nUso de funciones propias de MaterialUI\n\nConfiguración de temas personalizados"
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "Demostración del objetivo final de la sección",
+                    "video": "react-17-03-Demostracion_del_objetivo_final_de_la_seccion",
+                    "links": {}
+                }
+            },
+            {
+                "4": {
+                    "Titulo": "Inicio de proyecto - JournalApp",
+                    "video": "react-17-04-Inicio_de_proyecto_-_JournalApp",
+                    "links": {}
+                }
+            },
+            {
+                "5": {
+                    "Titulo": "Configuración de Rutas principales y secundarias",
+                    "video": "react-17-05-Configuracion_de_Rutas_principales_y_secundarias",
+                    "links": {}
+                }
+            },
+            {
+                "6": {
+                    "Titulo": "Configuración de Rutas principales y secundarias",
+                    "Texto": "Nota importante\nImportante:\n\nEn la próxima clase instalaremos los íconos de material, pero al hacerlo, esto incrementa el bundle size y el tiempo de transpilación, tengan presente esto porque hemos recibido bastantes preguntas relacionadas con el tema.\n\nMás información y posibles acciones aquí",
+                    "links": [
+                        {
+                            "titulo-link": "mui.com - minimizing-bundle-size",
+                            "link": "https://mui.com/material-ui/guides/minimizing-bundle-size/#development-environment"
+                        }
+                    ]
+                }
+            },
+            {
+                "7": {
+                    "Titulo": "Instalación de Material UI",
+                    "video": "react-17-07-Instalacion_de_Material_UI",
+                    "links": {}
+                }
+            },
+            {
+                "8": {
+                    "Titulo": "Configuración de MUI con Vite",
+                    "video": "react-17-08-Configuracion_de_MUI_con_Vite",
+                    "links": {}
+                }
+            },
+            {
+                "9": {
+                    "Titulo": "LoginPage - Diseño sin Layout",
+                    "video": "react-17-09-LoginPage_-_Diseno_sin_Layout",
+                    "links": {}
+                }
+            },
+            {
+                "10": {
+                    "Titulo": "LoginPage - Diseño - Segunda Parte",
+                    "video": "react-17-10-LoginPage_-_Diseno_-_Segunda_Parte",
+                    "links": {}
+                }
+            },
+            {
+                "11": {
+                    "Titulo": "AuthLayout",
+                    "video": "react-17-11-AuthLayout",
+                    "links": {}
+                }
+            },
+            {
+                "12": {
+                    "Titulo": "RegisterPage - Diseño",
+                    "video": "react-17-12-RegisterPage_-_Diseno",
+                    "links": {}
+                }
+            },
+            {
+                "13": {
+                    "Titulo": "JournalLayout y JournalPage",
+                    "video": "react-17-13-JournalLayout_y_JournalPage",
+                    "links": {}
+                }
+            },
+            {
+                "14": {
+                    "Titulo": "NavBar",
+                    "video": "react-17-14-NavBar",
+                    "links": {}
+                }
+            },
+            {
+                "15": {
+                    "Titulo": "SideBar",
+                    "video": "react-17-15-SideBar",
+                    "links": {}
+                }
+            },
+            {
+                "16": {
+                    "Titulo": "NothingSelectedView - No hay nada seleccionado",
+                    "video": "react-17-16-NothingSelectedView_-_No_hay_nada_seleccionado",
+                    "links": {}
+                }
+            },
+            {
+                "17": {
+                    "Titulo": "NoteView",
+                    "video": "react-17-17-NoteView",
+                    "links": {}
+                }
+            },
+            {
+                "18": {
+                    "Titulo": "ImageList - Galería de imágenes",
+                    "video": "react-17-18-ImageList_-_Galeria_de_imagenes",
+                    "links": {}
+                }
+            },
+            {
+                "19": {
+                    "Titulo": "Boton Flotante",
+                    "video": "react-17-19-Boton_Flotante",
+                    "links": {}
+                }
+            },
+            {
+                "20": {
+                    "Titulo": "Código fuente de la sección",
+                    "Texto": "Código fuente de la sección\nAquí les dejo el código fuente de la sección por si lo llegan a necesitar",
+                    "links": [
+                        {
+                            "titulo-link": "GitHub - Fin sección 17",
+                            "link": "https://github.com/Klerith/react-journal-material/tree/fin-seccion-17"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "18": {
+        "sectionName": "Sección 18: Redux - ¿Qué es y conceptos? + React Redux",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción a la sección",
+                    "video": "react-18-01-Introducción a la sección",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Temas puntuales de la sección\n¿Qué veremos en esta sección?\n\nRedux\n\nStore\n\nMiddlewares\n\nDispatch\n\nActions\n\nState\n\nAcciones asíncronas\n\nRTK Query\n\nRedux Toolkit\n\nSlices\n\nEs una sección sumamente pequeña, pero quiero darles una explicación teórica sobre Redux antes de entrar en él, pero la ventaja es que para estas alturas, ya deberíamos de saber sobre el Reducer, el cual es el corazón del Redux, por consecuencia aprender Redux en este instante debería ser más fácil!"
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "Explicación visual del patrón Redux",
+                    "video": "react-18-03-Explicacion_visual_del_patron_Redux",
+                    "links": {}
+                }
+            },
+            {
+                "4": {
+                    "Titulo": "Redux, React Redux y RTK Query",
+                    "video": "react-18-04-Redux_React_Redux_y_RTK_Query",
+                    "links": {}
+                }
+            },
+            {
+                "5": {
+                    "Titulo": "Inicio de proyecto - Redux-Tool",
+                    "video": "react-18-05-Inicio_de_proyecto_-_Redux-Tool",
+                    "links": [
+                        {
+                            "titulo-link": "GitHub - Fin sección 15",
+                            "link": "https://redux-toolkit.js.org/"
+                        },
+                        {
+                            "titulo-link": "Redux DevTools - Chrome",
+                            "link": "https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en"
+                        }
+                    ]
+                }
+            },
+            {
+                "6": {
+                    "Titulo": "ConfigureStore y Slices",
+                    "video": "react-18-06-ConfigureStore_y_Slices",
+                    "links": {}
+                }
+            },
+            {
+                "7": {
+                    "Titulo": "Usar valores del store y despachar acciones",
+                    "video": "react-18-07-Usar_valores_del_store_y_despachar_acciones",
+                    "links": {}
+                }
+            },
+            {
+                "8": {
+                    "Titulo": "Tarea - decrement e incrementBy",
+                    "video": "react-18-08-Tarea_-_decrement_e_incrementBy",
+                    "links": {}
+                }
+            },
+            {
+                "9": {
+                    "Titulo": "Snippet y Gists de Slice",
+                    "video": "react-18-09-Snippet_y_Gists_de_Slice",
+                    "links": [
+                        {
+                            "titulo-link": "Snippet y Gists de Slice",
+                            "link": "https://gist.github.com/Klerith/060281f76f3b7f0a458e4b83b1fc0062"
+                        }
+                    ]
+                }
+            },
+            {
+                "10": {
+                    "Titulo": "pokemonSlice",
+                    "video": "react-18-10-pokemonSlice",
+                    "links": {}
+                }
+            },
+            {
+                "11": {
+                    "Titulo": "Thunks",
+                    "video": "react-18-11-Thunks",
+                    "links": {}
+                }
+            },
+            {
+                "12": {
+                    "Titulo": "Axios",
+                    "video": "react-18-12-Axios",
+                    "links": {}
+                }
+            },
+            {
+                "13": {
+                    "Titulo": "Mostrar los pokemons paginadamente",
+                    "video": "react-18-13-Mostrar_los_pokemons_paginadamente",
+                    "links": {}
+                }
+            },
+            {
+                "14": {
+                    "Titulo": "RTK Query",
+                    "video": "react-18-14-RTK_Query",
+                    "links": {}
+                }
+            },
+            {
+                "15": {
+                    "Titulo": "Consumir el API mediante el custom hook",
+                    "video": "react-18-15-Consumir_el_API_mediante_el_custom_hook",
+                    "links": {}
+                }
+            },
+            {
+                "16": {
+                    "Titulo": "Obtener un Todo por ID",
+                    "video": "react-18-16-Obtener_un_Todo_por_ID",
+                    "links": {}
+                }
+            },
+            {
+                "17": {
+                    "Titulo": "Código fuente de la sección",
+                    "Texto": "Código fuente de la sección\nAquí les dejo el código fuente de la sección por si lo llegan a necesitar para compararlo contra el mío",
+                    "links": [
+                        {
+                            "titulo-link": "Fin sección 18 - Introducción a Redux",
+                            "link": "https://github.com/Klerith/redux-toolkit-rtk-demo"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "19": {
+        "sectionName": "Sección 19: Introducción a Redux y autenticación en Firebase",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción a la sección",
+                    "video": "react-19-01-Introducción a la sección",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Temas puntuales de la sección\n¿Qué veremos en esta sección?\n\nRedux\n\nStore\n\nMiddlewares\n\nDispatch\n\nActions\n\nState\n\nAcciones asíncronas\n\nRTK Query\n\nRedux Toolkit\n\nSlices\n\nEs una sección sumamente pequeña, pero quiero darles una explicación teórica sobre Redux antes de entrar en él, pero la ventaja es que para estas alturas, ya deberíamos de saber sobre el Reducer, el cual es el corazón del Redux, por consecuencia aprender Redux en este instante debería ser más fácil!"
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "Demostración del objetivo final de la sección",
+                    "video": "react-19-03-Demostracion_del_objetivo_final_de_la_seccion",
+                    "links": {}
+                }
+            },
+            {
+                "4": {
+                    "Titulo": "Configurando Redux en nuestra aplicación",
+                    "video": "react-19-04-Configurando_Redux_en_nuestra_aplicacion",
+                    "links": [
+                        {
+                            "titulo-link": "Redux - Sitio oficial",
+                            "link": "https://es.redux.js.org/"
+                        },
+                        {
+                            "titulo-link": "React-Redux",
+                            "link": "https://react-redux.js.org/"
+                        },
+                        {
+                            "titulo-link": "Redux-Toolkit",
+                            "link": "https://redux-toolkit.js.org/"
+                        }
+                    ]
+                }
+            },
+            {
+                "5": {
+                    "Titulo": "Configurar el AuthSlice",
+                    "video": "react-19-05-Configurar_el_AuthSlice",
+                    "links": {}
+                }
+            },
+            {
+                "6": {
+                    "Titulo": "Manejo del formulario de login",
+                    "video": "react-19-06-Manejo_del_formulario_de_login",
+                    "links": [
+                        {
+                            "titulo-link": "useForm Hook",
+                            "link": "https://github.com/Klerith/custom-hooks/blob/main/useForm/useForm.js"
+                        }
+                    ]
+                }
+            },
+            {
+                "7": {
+                    "Titulo": "Configuración inicial de Firebase",
+                    "video": "react-19-07-Configuracion_inicial_de_Firebase",
+                    "links": [
+                        {
+                            "titulo-link": "Firebase y Firestore",
+                            "link": "https://firebase.google.com/?hl=es-419"
+                        },
+                        {
+                            "titulo-link": "Documentación",
+                            "link": "https://firebase.google.com/docs/web/modular-upgrade?hl=es-419"
+                        }
+                    ]
+                }
+            },
+            {
+                "8": {
+                    "Titulo": "Google SignIn - Firebase",
+                    "video": "react-19-08-Google_SignIn_-_Firebase",
+                    "links": {}
+                }
+            },
+            {
+                "9": {
+                    "Titulo": "Disparar acción de autenticación",
+                    "video": "react-19-09-Disparar_accion_de_autenticacion",
+                    "links": {}
+                }
+            },
+            {
+                "10": {
+                    "Titulo": "Formulario de registro de usuarios",
+                    "video": "react-19-10-Formulario_de_registro_de_usuarios",
+                    "links": {}
+                }
+            },
+            {
+                "11": {
+                    "Titulo": "Manejo de errores del formulario",
+                    "video": "react-19-11-Manejo_del_formulario_de_login",
+                    "links": [
+                        {
+                            "titulo-link": "Validator - NPM",
+                            "link": "https://www.npmjs.com/package/validator"
+                        }
+                    ]
+                }
+            },
+            {
+                "12": {
+                    "Titulo": "Validar desde nuestro custom hook",
+                    "video": "react-19-12-Validar_desde_nuestro_custom_hook",
+                    "links": {}
+                }
+            },
+            {
+                "13": {
+                    "Titulo": "Mostrar errores en pantalla",
+                    "video": "react-19-13-Mostrar_errores_en_pantalla",
+                    "links": {}
+                }
+            },
+            {
+                "14": {
+                    "Titulo": "Crear usuario con email y password",
+                    "video": "react-19-14-Crear_usuario_con_email_y_password",
+                    "links": {}
+                }
+            },
+            {
+                "15": {
+                    "Titulo": "Actualizar el displayName y autenticar el usuario",
+                    "video": "react-19-15-Actualizar_el_displayName_y_autenticar_el_usuario",
+                    "links": {}
+                }
+            },
+            {
+                "16": {
+                    "Titulo": "Mostrar el mensaje de error de autenticación",
+                    "video": "react-19-16-Mostrar_el_mensaje_de_error_de_autenticacion",
+                    "links": {}
+                }
+            },
+            {
+                "17": {
+                    "Titulo": "Realizar el login de usuario con correo y contraseña",
+                    "video": "react-19-17-Realizar_el_login_de_usuario_con_correo_y_contrasena",
+                    "links": [
+                        {
+                            "titulo-link": "tarea.txt",
+                            "link": "https://import.cdn.thinkific.com/643563/courses/1901683/tarea-220622-151524.txt"
+                        },
+                        {
+                            "titulo-link": "tarea.txt.zip",
+                            "link": "https://import.cdn.thinkific.com/643563/courses/1901683/tareatxt-220622-151524.zip"
+                        }
+                    ]
+                }
+            },
+            {
+                "18": {
+                    "Titulo": "Resolución de la tarea - Login de usuario",
+                    "video": "react-19-18-Resolucion_de_la_tarea_-_Login_de_usuario",
+                    "links": {}
+                }
+            },
+            {
+                "19": {
+                    "Titulo": "Checking Authentication",
+                    "video": "react-19-19-Checking_Authentication",
+                    "links": {}
+                }
+            },
+            {
+                "20": {
+                    "Titulo": "Mantener el estado de la autenticación al recargar",
+                    "video": "react-19-20-Mantener_el_estado_de_la_autenticacion_al_recargar",
+                    "links": {}
+                }
+            },
+            {
+                "21": {
+                    "Titulo": "Custom Hook para autenticación",
+                    "video": "react-19-21-Custom_Hook_para_autenticacion",
+                    "links": {}
+                }
+            },
+            {
+                "22": {
+                    "Titulo": "Logout de Firebase",
+                    "video": "react-19-22-Logout_de_Firebase",
+                    "links": {}
+                }
+            },
+            {
+                "23": {
+                    "Titulo": "Animaciones para la aplicación",
+                    "video": "react-19-23-Animaciones_para_la_aplicacion",
+                    "links": {}
+                }
+            },
+            {
+                "24": {
+                    "Titulo": "Código fuente de la sección",
+                    "Texto": "Código fuente de la sección\nAquí les dejo el código fuente de la sección por si les interesa revisarlo o utilizarlo como base.\n\nIMPORTANTE:\n\nRecuerden cambiar la configuración de firebase, porque yo lo borraré en cualquier momento",
+                    "links": [
+                        {
+                            "titulo-link": "GitHub - Fin sección 19",
+                            "link": "https://github.com/Klerith/react-journal-material/tree/fin-seccion-19"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "20": {
+        "sectionName": "Sección 20: JournalApp - Redux - CRUD en Firestore y subida de archivos",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción a la sección",
+                    "video": "react-20-01-Introduccion a la sección",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Temas puntuales de la sección\n¿Qué veremos en esta sección?\n\nCRUD hacia Firestore\n\nExpandiendo nuestro estore añadiendo otros reducers\n\nSeleccionar y subir archivos\n\nAnimaciones adicionales a nuestra aplicación\n\nLimpieza en el logout\n\nEsta sección está enfocada ahora en las entradas de nuestro diario, asegurándose de que grabe únicamente en el documento del usuario autenticado."
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "Continuación del proyecto - JournalApp",
+                    "video": "react-20-03-Continuacion_del_proyecto_-_JournalApp",
+                    "links": {}
+                }
+            },
+            {
+                "4": {
+                    "Titulo": "JournalSlice",
+                    "video": "react-20-04-JournalSlice",
+                    "links": {}
+                }
+            },
+            {
+                "5": {
+                    "Titulo": "Preparar la base de datos - CloudFirestore",
+                    "video": "react-20-05-Preparar_la_base_de_datos_-_CloudFirestore",
+                    "links": {}
+                }
+            },
+            {
+                "6": {
+                    "Titulo": "Crear una nueva nota",
+                    "video": "react-20-06-Crear_una_nueva_nota",
+                    "links": {}
+                }
+            },
+            {
+                "7": {
+                    "Titulo": "Activar la nota creada",
+                    "video": "react-20-07-Activar_la_nota_creada",
+                    "links": {}
+                }
+            },
+            {
+                "8": {
+                    "Titulo": "Cargar notas de Firestore",
+                    "video": "react-20-08-Cargar_notas_de_Firestore",
+                    "links": {}
+                }
+            },
+            {
+                "9": {
+                    "Titulo": "Mostrar las notas en el menú lateral",
+                    "video": "react-20-09-Mostrar_las_notas_en_el_menu_lateral",
+                    "links": [
+                        {
+                            "titulo-link": "MomentJs",
+                            "link": "https://momentjs.com/"
+                        }
+                    ]
+                }
+            },
+            {
+                "10": {
+                    "Titulo": "Activar una nota",
+                    "video": "react-20-10-Activar_una_nota_para_su_edicion",
+                    "links": {}
+                }
+            },
+            {
+                "11": {
+                    "Titulo": "Activar una nota para su edición",
+                    "video": "react-20-11-Activar_una_nota_para_su_edicion-parte2",
+                    "links": {}
+                }
+            },
+            {
+                "12": {
+                    "Titulo": "Actualizar la nota actual",
+                    "video": "react-20-12-Actualizar_la_nota_actual",
+                    "links": {}
+                }
+            },
+            {
+                "13": {
+                    "Titulo": "Resolución de la tarea",
+                    "video": "react-20-13-Resolucion_de_la_tarea",
+                    "links": {}
+                }
+            },
+            {
+                "14": {
+                    "Titulo": "SweetAlert 2",
+                    "video": "react-20-14-SweetAlert_2",
+                    "links": {}
+                }
+            },
+            {
+                "15": {
+                    "Titulo": "Cloudinary.com - Backend para subir imágenes",
+                    "video": "react-20-15-Cloudinary.com_-_Backend_para_subir_imagenes",
+                    "links": [
+                        {
+                            "titulo-link": "Cloudinary.com",
+                            "link": "https://cloudinary.com/"
+                        }
+                    ]
+                }
+            },
+            {
+                "16": {
+                    "Titulo": "Seleccionar archivos desde React",
+                    "video": "react-20-16-Seleccionar_archivos_desde_React",
+                    "links": {}
+                }
+            },
+            {
+                "17": {
+                    "Titulo": "Subir imagen a Cloudinary",
+                    "video": "react-20-17-Subir_imagen_a_Cloudinary",
+                    "links": {}
+                }
+            },
+            {
+                "18": {
+                    "Titulo": "Múltiples peticiones de forma simultánea",
+                    "video": "react-20-18-Multiples_peticiones_de_forma_simultanea",
+                    "links": {}
+                }
+            },
+            {
+                "19": {
+                    "Titulo": "Mostrar las imagenes cargadas",
+                    "video": "react-20-19-Mostrar_las_imagenes_cargadas",
+                    "links": {}
+                }
+            },
+            {
+                "20": {
+                    "Titulo": "Corregir un posible error",
+                    "video": "react-20-20-Corregir_un_posible_error",
+                    "links": {}
+                }
+            },
+            {
+                "21": {
+                    "Titulo": "Limpiar notas al cerrar sesión",
+                    "video": "react-20-21-Limpiar_notas_al_cerrar_sesion",
+                    "links": {}
+                }
+            },
+            {
+                "22": {
+                    "Titulo": "Borrar una nota",
+                    "video": "react-20-22-Borrar_una_nota",
+                    "links": {}
+                }
+            },
+            {
+                "23": {
+                    "Titulo": "Nota deploy en Vercel",
+                    "Texto": "Si suben la app a Vercel y encuentran un problema al crear una nueva nota, pueden probar a solucionarlo agregando imageUrls: [] en el archivo store/journal/thunks.js en la función \"startNewNote\":\n\nconst newNote = {\n    title: \"\",\n    body: \"\",\n    imageUrls: [],\n    date: new Date().getTime()\n };"
+                }
+            },
+            {
+                "24": {
+                    "Titulo": "Código fuente de la sección",
+                    "Texto": "Aquí les dejo el código fuente de la sección por si lo llegan a necesitar o comparar contra el mío.",
+                    "links": [
+                        {
+                            "titulo-link": "Github: Fin Sección 20",
+                            "link": "https://github.com/Klerith/react-journal-material/tree/fin-seccion-20"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "21": {
+        "sectionName": "Sección 21: Pruebas con Redux, Firebase, Firestore y autenticación",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción a la sección",
+                    "video": "react-21-01-Introduccion a la sección",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Temas puntuales de la sección\n¿Qué veremos en esta sección?\n\nProfundizando en pruebas\n\nPruebas en Firebase y Firestore\n\nPruebas con reducers\n\nVariables de entorno de desarrollo, test y producción\n\nPruebas en tareas asíncronas\n\nEsta sección continúa el tema de las pruebas unitarias y de integración con el objetivo de seguir cubriendo temas nuevos. Las pruebas conforme se van avanzando, efectivamente se van haciendo más complejas pero la idea es darles a ustedes las herramientas para que puedan probar cualquier cosa que ustedes necesiten."
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Configuración de Testing en Vite\nEn la próxima lección empezaré a realizar la configuración del testing, pero si quieren adelantarse, este es el Gist para la configuración inicial:",
+                    "links": [
+                        {
+                            "titulo-link": "Gist - Vite + Testing + Jest",
+                            "links": "https://gist.github.com/Klerith/ca7e57fae3c9ab92ad08baadc6c26177"
+                        }
+                    ]
+                }
+            },
+            {
+                "4": {
+                    "Titulo": "Continuación de proyecto - JournalTesting",
+                    "video": "react-21-04-Continuacion_de_proyecto_-_JournalTesting",
+                    "links": {}
+                }
+            },
+            {
+                "5": {
+                    "Titulo": "Configuración del testing",
+                    "video": "react-21-05-Configuracion_del_testing",
+                    "links": {}
+                }
+            },
+            {
+                "6": {
+                    "Titulo": "Pruebas de carga de archivos",
+                    "video": "react-21-06-Pruebas_de_carga_de_archivos",
+                    "links": [
+                        {
+                            "titulo-link": "Cloudinary",
+                            "link": "https://cloudinary.com/"
+                        }
+                    ]
+                }
+            },
+            {
+                "7": {
+                    "Titulo": "Cloudinary SDK - Delete image",
+                    "video": "react-21-07-Cloudinary_SDK_-_Delete_image",
+                    "links": [
+                        {
+                            "titulo-link": "Cloudinary - delete_resources",
+                            "link": "https://cloudinary.com/documentation/admin_api#delete_resources"
+                        }
+                    ]
+                }
+            },
+            {
+                "8": {
+                    "Titulo": "Pruebas con los Slices de Redux Toolkit",
+                    "video": "react-21-08-Pruebas_con_los_Slices_de_Redux_Toolkit",
+                    "links": {}
+                }
+            },
+            {
+                "9": {
+                    "Titulo": "Pruebas faltantes con el authSlice",
+                    "video": "react-21-09-Pruebas_faltantes_con_el_authSlice",
+                    "links": {}
+                }
+            },
+            {
+                "10": {
+                    "Titulo": "Pruebas sobre Thunks",
+                    "video": "react-21-10-Pruebas_sobre_Thunks",
+                    "links": {}
+                }
+            },
+            {
+                "11": {
+                    "Titulo": "Thunks - checkingCredentials correcto e incorrecto",
+                    "video": "react-21-11-Thunks_-_checkingCredentials_correcto_e_incorrecto",
+                    "links": [
+                        {
+                            "titulo-link": "MomentJs",
+                            "link": "https://momentjs.com/"
+                        }
+                    ]
+                }
+            },
+            {
+                "12": {
+                    "Titulo": "Thunks - startLoginWithEmailPassword",
+                    "video": "react-21-12-Thunks_-_startLoginWithEmailPassword",
+                    "links": {}
+                }
+            },
+            {
+                "13": {
+                    "Titulo": "Pruebas en Journal Thunks",
+                    "video": "react-21-13-Pruebas_en_Journal_Thunks",
+                    "links": {}
+                }
+            },
+            {
+                "14": {
+                    "Titulo": "Crear base de datos de testing",
+                    "video": "react-21-14-Crear_base_de_datos_de_testing",
+                    "links": {}
+                }
+            },
+            {
+                "15": {
+                    "Titulo": "Prueba completa sobre inserción",
+                    "video": "react-21-15-Prueba_completa_sobre_insercion",
+                    "links": {}
+                }
+            },
+            {
+                "16": {
+                    "Titulo": "Variables de entorno",
+                    "video": "react-21-16-Variables_de_entorno",
+                    "links": [
+                        {
+                            "titulo-link": "Variables de entorno - create-react-app",
+                            "link": "https://create-react-app.dev/"
+                        }
+                    ]
+                }
+            },
+            {
+                "17": {
+                    "Titulo": "Variables de entorno Testing y Development",
+                    "video": "react-21-17-Variables_de_entorno_Testing_y_Development",
+                    "links": {}
+                }
+            },
+            {
+                "18": {
+                    "Titulo": "Configurar variables de entorno de Firebase",
+                    "video": "react-21-18-Configurar_variables_de_entorno_de_Firebase",
+                    "links": {}
+                }
+            },
+            {
+                "19": {
+                    "Titulo": "Pruebas en el LoginPage",
+                    "video": "react-21-19-Pruebas_en_el_LoginPage",
+                    "links": {}
+                }
+            },
+            {
+                "20": {
+                    "Titulo": "Botón de Google debe de llamar startGoogleSignIn",
+                    "video": "rreact-21-20-Boton_de_Google_debe_de_llamar_startGoogleSignIn",
+                    "links": {}
+                }
+            },
+            {
+                "21": {
+                    "Titulo": "Mocks de useDispatch",
+                    "video": "react-21-21-Mocks_de_useDispatch",
+                    "links": {}
+                }
+            },
+            {
+                "22": {
+                    "Titulo": "Disparar el submit del formulario",
+                    "video": "react-21-22-Disparar_el_submit_del_formulario",
+                    "links": {}
+                }
+            },
+            {
+                "23": {
+                    "Titulo": "Dispatch con valores específicos",
+                    "video": "react-21-23-Dispatch_con_valores_especificos",
+                    "links": {}
+                }
+            },
+            {
+                "24": {
+                    "Titulo": "Código fuente de la sección",
+                    "Texto": "Aquí les dejo el código fuente de la sección por si lo llegan a necesitar:",
+                    "links": [
+                        {
+                            "titulo-link": "GitHub - Fin sección 21",
+                            "link": "https://github.com/Klerith/react-journal-material/tree/fin-seccion-21"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "22": {
+        "sectionName": "Sección 22: MERN Calendar - Estructura y Diseño",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción a la sección",
+                    "video": "react-22-01-Introduccion a la sección",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Temas puntuales de la sección\n¿Qué veremos en esta sección?\n\nEstructura y diseño de nuestra aplicación de Calendario\n\nUso de componentes de terceros\n\nModals\n\nConfiguración de Redux\n\nCRUD local\n\nPreparación de pantallas para futuras secciones\n\nUso de MomentJS\n\nManejo de fechas\n\nEsta sección es el inicio de nuestro MERN, (Mongo Express React Node), luego crearemos nuestro backend y después regresaremos a esta app para conectarla y desplegarla en producción."
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "Demostración del objetivo final de la sección",
+                    "video": "react-22-03-Demostracion_de_la_seccion",
+                    "links": {}
+                }
+            },
+            {
+                "4": {
+                    "Titulo": "Inicio de proyecto - MERN-Calendar",
+                    "video": "react-22-04-Inicio_de_proyecto_-_MERN-Calendar",
+                    "links": [
+                        {
+                            "titulo-link": "React Router Dom",
+                            "links": "https://v5.reactrouter.com/web/guides/quick-start"
+                        },
+                        {
+                            "titulo-link": "getBootstrap.com - Sitio oficial",
+                            "links": "https://getbootstrap.com/docs/4.5/getting-started/introduction/"
+                        },
+                        {
+                            "titulo-link": "React Router V6",
+                            "links": "https://reactrouter.com/en/main"
+                        },
+                        {
+                            "titulo-link": "Bootstrap 5 - CDN",
+                            "links": "https://getbootstrap.com/docs/5.2/getting-started/introduction/"
+                        }
+                    ]
+                }
+            },
+            {
+                "5": {
+                    "Titulo": "Rutas de la aplicación",
+                    "video": "react-22-05-Rutas_de_la_aplicacion",
+                    "links": {}
+                }
+            },
+            {
+                "6": {
+                    "Titulo": "LoginScreen y Navbar",
+                    "video": "react-22-06-LoginScreen_y_Navbar",
+                    "links": [
+                        {
+                            "titulo-link": "LoginScreen JS y CSS",
+                            "links": "https://gist.github.com/Klerith/74a0c4426599f3bc25b7f4e8d95b6a7f"
+                        },
+                        {
+                            "titulo-link": "Font-Awesome CDN",
+                            "links": "https://cdnjs.com/libraries/font-awesome"
+                        },
+                        {
+                            "titulo-link": "CSS min",
+                            "links": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css"
+                        }
+                    ]
+                }
+            },
+            {
+                "7": {
+                    "Titulo": "React Big Calendar",
+                    "video": "react-22-07-React_Big_Calendar",
+                    "links": [
+                        {
+                            "titulo-link": "react-big-calendar",
+                            "links": "https://www.npmjs.com/package/react-big-calendar"
+                        }
+                    ]
+                }
+            },
+            {
+                "8": {
+                    "Titulo": "Configuraciones adicionales al calendario",
+                    "video": "react-22-08-Configuraciones_adicionales_al_calendario",
+                    "links": [
+                        {
+                            "titulo-link": "Mensajes en español",
+                            "links": "https://gist.github.com/Klerith/1658fc368898dd673fc5a9a01ccb12ff"
+                        }
+                    ]
+                }
+            },
+            {
+                "9": {
+                    "Titulo": "Personalizar el cuadro de evento",
+                    "video": "react-22-09-Personalizar_el_cuadro_de_evento",
+                    "links": {}
+                }
+            },
+            {
+                "10": {
+                    "Titulo": "Escuchar eventos del calendario",
+                    "video": "react-22-10-Escuchar_eventos_del_calendario",
+                    "links": {}
+                }
+            },
+            {
+                "11": {
+                    "Titulo": "Creando un modal sobre el calendario",
+                    "video": "react-22-11-Creando_un_modal_sobre_el_calendario",
+                    "links": [
+                        {
+                            "titulo-link": "Modal Styles",
+                            "links": "https://gist.github.com/Klerith/5f490092ce9bd5775cb1d91162be0cea"
+                        },
+                        {
+                            "titulo-link": "React-Modal",
+                            "links": "https://www.npmjs.com/package/react-modal"
+                        }
+                    ]
+                }
+            },
+            {
+                "12": {
+                    "Titulo": "Contenido del Modal",
+                    "video": "react-22-12-Contenido_del_Modal",
+                    "links": [
+                        {
+                            "titulo-link": "React DatePicker",
+                            "links": "https://www.npmjs.com/package/react-datepicker"
+                        },
+                        {
+                            "titulo-link": "Contenido HTML Modal - Gist",
+                            "links": "https://gist.github.com/Klerith/8c9b2178830045b3f5126422bd0223e1"
+                        }
+                    ]
+                }
+            },
+            {
+                "13": {
+                    "Titulo": "Datepicker en español",
+                    "video": "react-22-13-Datepicker_en_espanol",
+                    "links": {}
+                }
+            },
+            {
+                "14": {
+                    "Titulo": "Obtener la información del formulario del evento",
+                    "video": "react-22-14-Obtener_la_informacion_del_formulario_del_evento",
+                    "links": {}
+                }
+            },
+            {
+                "15": {
+                    "Titulo": "Validaciones del formulario",
+                    "video": "react-22-15-Validaciones_del_formulario",
+                    "links": {}
+                }
+            },
+            {
+                "16": {
+                    "Titulo": "Instalación y configuración de Redux",
+                    "video": "react-22-16-Instalacion_y_configuracion_de_Redux",
+                    "links": [
+                        {
+                            "titulo-link": "React - Redux",
+                            "links": "https://react-redux.js.org/"
+                        },
+                        {
+                            "titulo-link": "Redux",
+                            "links": "https://es.redux.js.org/"
+                        },
+                        {
+                            "titulo-link": "npm: redux-thunk",
+                            "links": "https://www.npmjs.com/package/redux-thunk"
+                        },
+                        {
+                            "titulo-link": "Redux Toolkit",
+                            "links": "https://redux-toolkit.js.org/"
+                        }
+                    ]
+                }
+            },
+            {
+                "17": {
+                    "Titulo": "Mostrar y ocultar modal en base al Store",
+                    "video": "react-22-17-Mostrar_y_ocultar_modal_en_base_al_Store",
+                    "links": {}
+                }
+            },
+            {
+                "18": {
+                    "Titulo": "CalendarSlice",
+                    "video": "react-22-18-CalendarSlice",
+                    "links": {}
+                }
+            },
+            {
+                "19": {
+                    "Titulo": "Cargar un evento en el modal",
+                    "video": "react-22-19-Cargar_un_evento_en_el_modal",
+                    "links": {}
+                }
+            },
+            {
+                "20": {
+                    "Titulo": "Preparar la creación de un nuevo evento",
+                    "video": "react-22-20-Preparar_la_creacion_de_un_nuevo_evento",
+                    "links": {}
+                }
+            },
+            {
+                "21": {
+                    "Titulo": "Añadir un nuevo evento",
+                    "video": "react-22-21-Anadir_un_nuevo_evento",
+                    "links": {}
+                }
+            },
+            {
+                "22": {
+                    "Titulo": "Editar el evento activo",
+                    "video": "react-22-22-Editar_el_evento_activo",
+                    "links": {}
+                }
+            },
+            {
+                "23": {
+                    "Titulo": "Eliminar evento",
+                    "video": "react-22-23-Eliminar_evento",
+                    "links": {}
+                }
+            },
+            {
+                "24": {
+                    "Titulo": "Redux - serializableCheck",
+                    "video": "react-22-24-Redux_-_serializableCheck",
+                    "links": {}
+                }
+            },
+            {
+                "25": {
+                    "Titulo": "Codigo fuente de la sección",
+                    "Texto": "Aquí les dejo el repositorio por si lo necesitan comparar contra el mío o por si necesitan tenerlo en Github.",
+                    "links": [
+                        {
+                            "titulo-link": "Fin de la sección 22 - CalendarApp - Github",
+                            "link": "https://github.com/Klerith/react-mern-calendar/tree/fin-seccion-22"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "23": {
+        "sectionName": "Sección 23: CalendarApp - Backend - Node, Express, Mongo",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción a la sección",
+                    "video": "react-23-01-Introduccion a la sección",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Temas puntuales de la sección\n¿Qué veremos en esta sección?\n\nNode\n\nExpress\n\nMongoose\n\nModelos\n\nControllers\n\nMiddlewares de Express\n\nJWT\n\nAutenticación pasiva\n\nPayloas\n\nEncriptación\n\nRutas\n\nCORS\n\nRevalidar tokens\n\nMongoDB\n\nMongoAtlas\n\nMongoCompass\n\nEs una sección bastante pesada en el aspecto de que no es React lo que veremos, pero todo lo haremos con JavaScript, y ya debemos de estar familiarizados con él.\n\nEl backend que haremos aquí es robusto y lo podrían utilizar en proyectos reales, espero que lo aprovechen y sobre todo aprendan bastante.\n\nSi quieren saber más sobre Node, recuerden que tengo un curso especializado en ese tema."
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "Objetivo al final de la sección",
+                    "video": "react-23-03-Objetivo_al_final_de_la_seccion",
+                    "links": {}
+                }
+            },
+            {
+                "4": {
+                    "Titulo": "Inicio de proyecto - CalendarApp Node Backend",
+                    "video": "react-23-04-Inicio_de_proyecto_-_CalendarApp_Node_Backend",
+                    "links": {}
+                }
+            },
+            {
+                "5": {
+                    "Titulo": "Configurando Express",
+                    "video": "react-23-05-Configurando_Express",
+                    "links": {}
+                }
+            },
+            {
+                "6": {
+                    "Titulo": "Variables de entorno y carpeta pública",
+                    "video": "react-23-06-Variables_de_entorno_y_carpeta_publica",
+                    "links": {}
+                }
+            },
+            {
+                "7": {
+                    "Titulo": "Creando las rutas relacionadas a usuarios",
+                    "video": "react-23-07-Creando_las_rutas_relacionadas_a_usuarios",
+                    "links": {}
+                }
+            },
+            {
+                "8": {
+                    "Titulo": "Endpoints de remover, crear y login",
+                    "video": "react-23-08-Endpoints_de_Renover_crear_y_login",
+                    "links": {}
+                }
+            },
+            {
+                "9": {
+                    "Titulo": "Recuperar información de un posteo",
+                    "video": "react-23-09-Recuperar_informacion_de_un_posteo",
+                    "links": [
+                        {
+                            "titulo-link": "Status Codes",
+                            "link": "https://www.restapitutorial.com/httpstatuscodes.html"
+                        }
+                    ]
+                }
+            },
+            {
+                "10": {
+                    "Titulo": "Express Validator",
+                    "video": "react-23-10-Express_Validator",
+                    "links": {}
+                }
+            },
+            {
+                "11": {
+                    "Titulo": "Custom Middlewares",
+                    "video": "react-23-11-Custom_Middlewares",
+                    "links": {}
+                }
+            },
+            {
+                "12": {
+                    "Titulo": "Configuración de base de datos",
+                    "video": "react-23-12-Configuracion_de_base_de_datos",
+                    "links": [
+                        {
+                            "titulo-link": "Mongodb - Atlas",
+                            "link": "https://www.mongodb.com/es/cloud/atlas/efficiency"
+                        },
+                        {
+                            "titulo-link": "MongooseJS.com",
+                            "link": "https://mongoosejs.com/"
+                        }
+                    ]
+                }
+            },
+            {
+                "13": {
+                    "Titulo": "Conectar Node a Mongo Atlas",
+                    "video": "react-23-13-Conectar_Node_a_Mongo_Atlas",
+                    "links": {}
+                }
+            },
+            {
+                "14": {
+                    "Titulo": "Crear un usuario en nuestra Base de Datos",
+                    "video": "react-23-14-Crear_un_usuario_en_nuestra_Base_de_Datos",
+                    "links": {}
+                }
+            },
+            {
+                "15": {
+                    "Titulo": "Validaciones del usuario",
+                    "video": "react-23-15-Validaciones_del_usuario",
+                    "links": {}
+                }
+            },
+            {
+                "16": {
+                    "Titulo": "Encriptar la contraseña",
+                    "video": "react-23-16-Encriptar_la_contrasena",
+                    "links": {}
+                }
+            },
+            {
+                "17": {
+                    "Titulo": "Login de usuario",
+                    "video": "react-23-17-Login_de_usuario",
+                    "links": {}
+                }
+            },
+            {
+                "18": {
+                    "Titulo": "Generar un Json Web Token",
+                    "video": "react-23-18-Generar_un_Json_Web_Token",
+                    "links": [
+                        {
+                            "titulo-link": "JWT",
+                            "link": "https://jwt.io/"
+                        }
+                    ]
+                }
+            },
+            {
+                "19": {
+                    "Titulo": "Revalidar JWT",
+                    "video": "react-23-19-Revalidar_JWT",
+                    "links": {}
+                }
+            },
+            {
+                "20": {
+                    "Titulo": "Configurar CORS",
+                    "video": "react-23-20-Configurar_CORS",
+                    "links": [
+                        {
+                            "titulo-link": "npm - cors",
+                            "link": "https://www.npmjs.com/package/cors"
+                        }
+                    ]
+                }
+            },
+            {
+                "21": {
+                    "Titulo": "Código fuente de la sección",
+                    "Texto": "POSTMAN Endpoints - Backups\n\nPueden descargar todos los endpoints creados en esta sección del material adjunto a esta clase y cargarlos en Postman.\n\nNota:\n\nPor favor, no se olviden de dejar un comentario en el curso en las reseñas y si pueden ayúdenme a poder llegar a más personas hablando de este curso o invitándolos a tomarlo, recuerden que es un curso que tienen acceso de por vida y no hay más cobros o suscripciones, por lo que si me ayudan a que más personas lo tomen, me ayudan a que pueda seguir trabajando en la enseñanza en línea.\n\nEso era toda la publicidad que quería hacer... comencemos a desplegar nuestro backend!\n\nRecursos de la Lección:",
+                    "links": [
+                        {
+                            "titulo-link": "MERN-Calendar-Backend - Autenticación",
+                            "link": "https://import.cdn.thinkific.com/643563/courses/1901683/MERNCalendarBackend200-220626-160933.zip"
+                        },
+                        {
+                            "titulo-link": "MERN+Calendar.postman_collection.json",
+                            "link": "https://import.cdn.thinkific.com/643563/courses/1901683/MERNCalendarpostman_collection-220626-160946.json"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "24": {
+        "sectionName": "Sección 24: Backend - Eventos del calendario - CRUD",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción a la sección",
+                    "video": "react-24-01-Introduccion a la sección",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Temas puntuales de la sección\n¿Qué veremos en esta sección?\n\nCRUD completo de eventos de calendario\n\nModelos\n\nValidaciones automáticas\n\nValidaciones personalizadas\n\nAquí trabajaremos creando todo lo necesario para que podamos insertar, actualizar y eliminar información relacionada a los eventos que nuestra aplicación del calendario necesitará."
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "Continuación del proyecto - Calendar Backend",
+                    "video": "react-24-03-Continuacion_del_proyecto_-_Calendar_Backend",
+                    "links": {}
+                }
+            },
+            {
+                "4": {
+                    "Titulo": "Resolución de la tarea - CRUD",
+                    "video": "react-24-04-Resolucion_de_la_tarea_-_CRUD",
+                    "links": {}
+                }
+            },
+            {
+                "5": {
+                    "Titulo": "Modelo Evento",
+                    "video": "react-24-05-Modelo_Evento",
+                    "links": {}
+                }
+            },
+            {
+                "6": {
+                    "Titulo": "Validar campos necesarios",
+                    "video": "react-24-06-Validar_campos_necesarios",
+                    "links": {}
+                }
+            },
+            {
+                "7": {
+                    "Titulo": "Grabar el evento en la base de datos",
+                    "video": "react-24-07-Grabar_el_evento_en_la_base_de_datos",
+                    "links": {}
+                }
+            },
+            {
+                "8": {
+                    "Titulo": "Obtener el listado de los Eventos",
+                    "video": "react-24-08-Obtener_el_listado_de_los_Eventos",
+                    "links": {}
+                }
+            },
+            {
+                "9": {
+                    "Titulo": "Actualizar un Evento",
+                    "video": "react-24-09-Actualizar_un_Evento",
+                    "links": {}
+                }
+            },
+            {
+                "10": {
+                    "Titulo": "Eliminar Eventos",
+                    "video": "react-24-10-Eliminar_Eventos",
+                    "links": {}
+                }
+            },
+            {
+                "11": {
+                    "Titulo": "Código fuente de la sección",
+                    "Texto": "POSTMAN Endpoints - Backups\n\nPueden descargar todos los endpoints creados en esta sección del material adjunto a esta clase y cargarlos en Postman.\n\nNota:\n\nPor favor, no se olviden de dejar un comentario en el curso en las reseñas y si pueden ayúdenme a poder llegar a más personas hablando de este curso o invitándolos a tomarlo, recuerden que es un curso que tienen acceso de por vida y no hay más cobros o suscripciones, por lo que si me ayudan a que más personas lo tomen, me ayudan a que pueda seguir trabajando en la enseñanza en línea.\n\nEso era toda la publicidad que quería hacer... comencemos a desplegar nuestro backend!\n\nRecursos de la Lección:",
+                    "links": [
+                        {
+                            "titulo-link": "MERN-Calendar-Backend-2.0.0.zip",
+                            "link": "https://import.cdn.thinkific.com/643563/courses/1901683/MERNCalendarBackend200-220626-160933.zip"
+                        },
+                        {
+                            "titulo-link": "MERN+Calendar.postman_collection.json",
+                            "link": "https://import.cdn.thinkific.com/643563/courses/1901683/MERNCalendarpostman_collection-220626-160946.json"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "25": {
+        "sectionName": "Sección 25: Despliegue del backend en Heroku",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción a la sección",
+                    "video": "react-25-01-Introducción a la sección",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Temas puntuales de la sección\n¿Qué veremos en esta sección?\n\nDespliegues de Node hacia Heroku\n\nGit\n\nGenerar nuestra aplicación de React para producción\n\nRevisar LOGS de Heroku\n\nEs una sección corta pero enfocada en que puedan desplegar todo su trabajo en un hosting que les permita compartir todo su trabajo a cualquier persona y usar su aplicación en cualquier lugar del mundo."
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "Despliegues en Heroku",
+                    "video": "react-25-03-Despliegues_en_Heroku_1",
+                    "links": [
+                        {
+                            "titulo-link": "heroku.com",
+                            "link": "https://www.heroku.com/"
+                        }
+                    ]
+                }
+            },
+            {
+                "4": {
+                    "Titulo": "Montar la aplicación en Heroku",
+                    "video": "react-25-04-Montar_la_aplicacion_en_Heroku",
+                    "links": {}
+                }
+            }
+        ]
+    },
+    "26": {
+        "sectionName": "Sección 26: MERN - Calendario + Backend",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción a la sección",
+                    "video": "react-26-01-Introduccion a la sección",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Temas puntuales de la sección\n¿Qué veremos en esta sección?\n\nConexión de nuestro Backend con el Frontend\n\nEsta sección trabajaremos integrando nuestro backend con el frontend hecho en React, que ya tenemos casi terminado, sólo debemos de llamar los servicios y dispara las acciones respectivas que ya tenemos en nuestra aplicación del calendario.\n\nToda esta sección está enfocada en la parte de la autenticación y manejo del JWT, hay que guardar y estar actualizando el token de autenticación y realizar las pruebas respectivas!\n\nEstamos llegando al final del curso :'(... pero aún falta mucho :D"
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "Continuación de proyecto - Calendar + Backend",
+                    "video": "react-26-03-Continuacion_de_proyecto_-_Calendar_Backend",
+                    "links": {}
+                }
+            },
+            {
+                "4": {
+                    "Titulo": "Creando variables de entorno",
+                    "video": "react-26-04-Creando_variables_de_entorno",
+                    "links": {}
+                }
+            },
+            {
+                "5": {
+                    "Titulo": "AuthSlice",
+                    "video": "react-26-05-AuthSlice",
+                    "links": {}
+                }
+            },
+            {
+                "6": {
+                    "Titulo": "useForm - Login y Registro",
+                    "video": "react-26-06-useForm_-_Login_y_Registro",
+                    "links": [
+                        {
+                            "titulo-link": "useForm - Gist",
+                            "link": "https://gist.github.com/Klerith/09dede50a8a397231744d4545b771408"
+                        }
+                    ]
+                }
+            },
+            {
+                "7": {
+                    "Titulo": "Axios - Configurar cliente para peticiones HTTP",
+                    "video": "react-26-07-Axios_-_Configurar_cliente_para_peticiones_HTTP",
+                    "links": {}
+                }
+            },
+            {
+                "8": {
+                    "Titulo": "Realizar login de usuario",
+                    "video": "react-26-08-Realizar_login_de_usuario",
+                    "links": {}
+                }
+            },
+            {
+                "9": {
+                    "Titulo": "Despachar acciones respectivas",
+                    "video": "react-26-09-Despachar_acciones_respectivas",
+                    "links": {}
+                }
+            },
+            {
+                "10": {
+                    "Titulo": "Mostrar error en la autenticación",
+                    "video": "react-26-10-Mostrar_error_en_la_autenticacion",
+                    "links": {}
+                }
+            },
+            {
+                "11": {
+                    "Titulo": "Creación de un nuevo usuario",
+                    "video": "react-26-11-Creacion_de_un_nuevo_usuario",
+                    "links": {}
+                }
+            },
+            {
+                "12": {
+                    "Titulo": "Mantener el estado de la autenticación",
+                    "video": "react-26-12-Mantener_el_estado_de_la_autenticacion",
+                    "links": {}
+                }
+            },
+            {
+                "13": {
+                    "Titulo": "Cambiar el URL después de una autenticación",
+                    "video": "react-26-13-Cambiar_el_URL_despues_de_una_autenticacion",
+                    "links": {}
+                }
+            },
+            {
+                "14": {
+                    "Titulo": "Logout y nombre de usuario",
+                    "video": "react-26-14-Logout_y_nombre_de_usuario.mp4",
+                    "links": {}
+                }
+            },
+            {
+                "15": {
+                    "Titulo": "Código fuente de la sección",
+                    "Texto": "Código fuente de la sección\nAquí les dejo mi código fuente por si lo llegan a necesitar para compararlo contra el suyo:\n\nGithub - Frontend - React CalendarApp\n\nGithub - Backend con las modificaciones de UID y Name\n\nNota:\n\nPor favor, no se les olvide calificar o actualizar la reseña del curso, esto me ayuda a poder mantener el curso entre las mejores opciones para aprender React y así poder mantener los co-instructores activos y el curso actualizado lo más posible.",
+                    "links": [
+                        {
+                            "titulo-link": "Github - Frontend - React CalendarApp",
+                            "link": "https://github.com/Klerith/react-mern-calendar/tree/fin-seccion-26"
+                        },
+                        {
+                            "titulo-link": "Github - Backend con las modificaciones de UID y Name",
+                            "link": "https://github.com/Klerith/MERN-Calendar-Backend"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "27": {
+        "sectionName": "Sección 27: MERN CRUD - Eventos del calendario",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción a la sección",
+                    "video": "react-27-01-Introduccion a la sección",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Temas puntuales de la sección\n¿Qué veremos en esta sección?\n\nEventos del calendario + backend\n\nToda esta sección está enfocada en hacer persistentes nuestros cambios y eventos del calendario utilizando nuestro backend, disparando acciones asíncronas que terminan ejecutando las acciones síncronas que habíamos definido anteriormente."
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "Continuación de proyecto - Calendar CRUD de Eventos",
+                    "video": "react-27-03-Continuacion_de_proyecto_-_Calendar_CRUD_de_Eventos",
+                    "links": {}
+                }
+            },
+            {
+                "4": {
+                    "Titulo": "Creando un nuevo Evento en el calendario",
+                    "video": "react-27-04-Creando_un_nuevo_Evento_en_el_calendario",
+                    "links": {}
+                }
+            },
+            {
+                "5": {
+                    "Titulo": "Mostrar eventos de la base de datos",
+                    "video": "react-27-05-Mostrar_eventos_de_la_base_de_datos",
+                    "links": {}
+                }
+            },
+            {
+                "6": {
+                    "Titulo": "Cargar los eventos al store",
+                    "video": "react-27-06-Cargar_los_eventos_al_store",
+                    "links": {}
+                }
+            },
+            {
+                "7": {
+                    "Titulo": "Actualizar el evento",
+                    "video": "react-27-07-Actualizar_el_evento",
+                    "links": {}
+                }
+            },
+            {
+                "8": {
+                    "Titulo": "Cambiar el color de los eventos según usuario",
+                    "video": "react-27-08-Cambiar_el_color_de_los_eventos_segun_usuario",
+                    "links": {}
+                }
+            },
+            {
+                "9": {
+                    "Titulo": "Eliminar un evento",
+                    "video": "react-27-09-Eliminar_un_evento",
+                    "links": {}
+                }
+            },
+            {
+                "10": {
+                    "Titulo": "Limpiar información del calendario",
+                    "video": "react-27-10-Limpiar_informacion_del_calendario",
+                    "links": {}
+                }
+            },
+            {
+                "11": {
+                    "Titulo": "Código fuente de la sección",
+                    "Texto": "Código fuente de la sección\nCódigo de la sección\nAquí les dejo el código fuente de la sección terminada y lista, en la próxima sección lo desplegaremos todo a Heroku para dejarlo trabajando en internet.\n\nMERN Completo - Calendar App\n\nPor favor, no se olviden de calificar el curso y dejar una reseña! eso me ayudaría mucho a poder llegar a más alumnos!",
+                    "links": [
+                        {
+                            "titulo-link": "MERN Completo - Calendar App",
+                            "link": "https://github.com/Klerith/react-mern-calendar/tree/fin-seccion-27"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "28": {
+        "sectionName": "Sección 28: Fin el MERN - Desplegarlo a producción",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción a la sección",
+                    "video": "react-28-01-Introduccion a la sección",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Temas puntuales de la sección\n¿Qué veremos en esta sección?\n\nDespliegues a producción\n\nAquí tomaremos nuestra aplicación de React para generar el build de producción y desplegarlo en nuestro backend en Heroku."
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "Generar versión de producción y desplegarla en Heroku",
+                    "video": "react-28-03-Generar_version_de_produccion_y_desplegarla_en_Heroku",
+                    "links": [
+                        {
+                            "titulo-link": "heroku.com",
+                            "link": "https://www.heroku.com/"
+                        }
+                    ]
+                }
+            },
+            {
+                "4": {
+                    "Titulo": "Corregir la ruta en Express y HashRouter",
+                    "video": "react-28-04-Corregir_la_ruta_en_Express_y_HashRouter",
+                    "links": {}
+                }
+            }
+        ]
+    },
+    "29": {
+        "sectionName": "Sección 29: Pruebas unitarias y de integración - MERN",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Introducción a la sección",
+                    "video": "react-29-01-Introduccion a la sección",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Temas puntuales de la sección",
+                    "Texto": "Temas puntuales de la sección\n¿Qué veremos en esta sección?\n\nDespliegues a producción\n\nAquí tomaremos nuestra aplicación de React para generar el build de producción y desplegarlo en nuestro backend en Heroku."
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "Inicio de pruebas - CalendarApp",
+                    "video": "react-29-03-Inicio_de_pruebas_-_CalendarApp",
+                    "links": [
+                        {
+                            "titulo-link": "Vite + Jest + Testing Library + CSS",
+                            "link": "https://gist.github.com/Klerith/b2eafa2a5fb9f09d6d043781be976e06"
+                        }
+                    ]
+                }
+            },
+            {
+                "4": {
+                    "Titulo": "Pruebas con la configuración de Axios",
+                    "video": "react-29-04-Pruebas_con_la_configuracion_de_Axios",
+                    "links": {}
+                }
+            },
+            {
+                "5": {
+                    "Titulo": "Pruebas en uiSlice",
+                    "video": "react-29-05-Pruebas_en_uiSlice",
+                    "links": {}
+                }
+            },
+            {
+                "6": {
+                    "Titulo": "Pruebas en authSlice",
+                    "video": "react-29-06-Pruebas_en_authSlice",
+                    "links": {}
+                }
+            },
+            {
+                "7": {
+                    "Titulo": "Probando estados y acciones del authSlice",
+                    "video": "react-29-07-Probando_estados_y_acciones_del_authSlice",
+                    "links": {}
+                }
+            },
+            {
+                "8": {
+                    "Titulo": "Calendar Fixtures",
+                    "video": "react-29-08-Calendar_Fixtures",
+                    "links": {}
+                }
+            },
+            {
+                "9": {
+                    "Titulo": "Pruebas en el calendarSlice",
+                    "video": "react-29-10-Pruebas_en_el_calendarSlice",
+                    "links": {}
+                }
+            },
+            {
+                "10": {
+                    "Titulo": "Tarea - onDeleteEvent y onLogoutCalendar",
+                    "video": "react-29-11-Tarea_-_onDeleteEvent_y_onLogoutCalendar",
+                    "links": {}
+                }
+            },
+            {
+                "11": {
+                    "Titulo": "Pruebas en FabDelete - incompleta",
+                    "video": "react-29-12-Pruebas_en_FabDelete_-_incompleta",
+                    "links": {}
+                }
+            },
+            {
+                "12": {
+                    "Titulo": "Pruebas en el useUiStore",
+                    "video": "react-29-13-Pruebas_en_el_useUiStore",
+                    "links": {}
+                }
+            },
+            {
+                "13": {
+                    "Titulo": "Probando funciones conectadas al store",
+                    "video": "react-29-14-Probando_funciones_conectadas_al_store",
+                    "links": {}
+                }
+            },
+            {
+                "14": {
+                    "Titulo": "Pruebas faltantes del useUiStore",
+                    "video": "react-29-15-Pruebas_faltantes_del_useUiStore",
+                    "links": {}
+                }
+            },
+            {
+                "15": {
+                    "Titulo": "Inicio de pruebas en useAuthStore",
+                    "video": "react-29-16-Inicio_de_pruebas_en_useAuthStore",
+                    "links": {}
+                }
+            },
+            {
+                "16": {
+                    "Titulo": "startLogin debe de realizar el login correctamente",
+                    "video": "react-29-17-startLogin_debe_de_realizar_el_login_correctamente",
+                    "links": {}
+                }
+            },
+            {
+                "17": {
+                    "Titulo": "startLogin debe de fallar la autenticación",
+                    "video": "react-29-18-startLogin_debe_de_fallar_la_autenticacion",
+                    "links": {}
+                }
+            },
+            {
+                "18": {
+                    "Titulo": "startRegister debe de crear un usuario",
+                    "video": "react-29-19-startRegister_debe_de_crear_un_usuario",
+                    "links": {}
+                }
+            },
+            {
+                "19": {
+                    "Titulo": "startRegister debe de fallar la creación",
+                    "video": "react-29-20-startRegister_debe_de_fallar_la_creacion",
+                    "links": {}
+                }
+            },
+            {
+                "20": {
+                    "Titulo": "checkAuthToken debe de fallar si no hay token",
+                    "video": "react-29-21-checkAuthToken_debe_de_fallar_si_no_hay_token",
+                    "links": {}
+                }
+            },
+            {
+                "21": {
+                    "Titulo": "Pruebas en el componente FabDelete",
+                    "video": "react-29-22-Pruebas_en_el_componente_FabDelete",
+                    "links": {}
+                }
+            },
+            {
+                "22": {
+                    "Titulo": "Pruebas restantes del FabDelete",
+                    "video": "react-29-23-Pruebas_restantes_del_FabDelete",
+                    "links": {}
+                }
+            },
+            {
+                "23": {
+                    "Titulo": "Pruebas en el AppRouter",
+                    "video": "react-29-24-Pruebas_en_el_AppRouter",
+                    "links": {}
+                }
+            },
+            {
+                "24": {
+                    "Titulo": "Debe de mostrar el login en caso de no estar autenticado",
+                    "video": "react-29-25-debe_de_mostrar_el_login_en_caso_de_no_estar_autenticado",
+                    "links": {}
+                }
+            },
+            {
+                "25": {
+                    "Titulo": "Pruebas con componentes de terceros",
+                    "video": "react-29-25-debe_de_mostrar_el_login_en_caso_de_no_estar_autenticado",
+                    "links": {}
+                }
+            },
+            {
+                "26": {
+                    "Titulo": "Código fuente de la sección",
+                    "Texto": "Aquí les dejo el código fuente de la sección, no se les olvide que deben de leer el readme y cambiar las variables de entorno. (Además de correr el backend server)",
+                    "links": [
+                        {
+                            "titulo-link": "GitHub - Fin Sección 29",
+                            "link": "https://github.com/Klerith/react-mern-calendar/tree/fin-seccion-29"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "30": {
+        "sectionName": "Sección 30: Fin del curso",
+        "videos": [
+            {
+                "1": {
+                    "Titulo": "Presentaciones utilizadas",
+                    "Texto": "Material de soporte\nEn el material adjunto de la clase, tienen un PDF que contiene la presentación completa que utilicé en el curso, pueda que les pueda servir, recuerden que si la usan fuera de este curso para cualquier cosa, hagan mención que la obtuvieron de este curso por favor.\n\nY si la quieren ver animada, aquí les dejo el enlace, es algo pesada, por lo cual tengan paciencia mientras carga\n\nPresentación React - Web\n\nRecursos de la lección:",
+                    "links": [
+                        {
+                            "titulo-link": "Presentación React - Web",
+                            "link": "https://import.cdn.thinkific.com/643563/courses/1901683/presentacion-220626-180651.pdf"
+                        }
+                    ]
+                }
+            },
+            {
+                "2": {
+                    "Titulo": "Presentaciones utilizadas",
+                    "Texto": "Más información para seguir aprendiendo\nLlegamos al final del curso!\nPero quiero darles un par de documentaciones extra que pueden hacer para seguir aprendiendo React:\nRecuerden, pueden seguir aprendiendo y entre más usen React, más lo dominarán!",
+                    "links": [
+                        {
+                            "titulo-link": "React Redux - QuickStart Oficial",
+                            "link": "https://react-redux.js.org/introduction/getting-started"
+                        },
+                        {
+                            "titulo-link": "QuickStart - Jest",
+                            "link": "https://jestjs.io/docs/getting-started"
+                        },
+                        {
+                            "titulo-link": "Introducción a Firestore",
+                            "link": "https://firebase.google.com/docs/firestore?gclid&hl=es-419"
+                        },
+                        {
+                            "titulo-link": "10 Librerías de React interesantes",
+                            "link": "https://blog.logrocket.com/top-10-react-component-libraries-for-2020/"
+                        },
+                        {
+                            "titulo-link": "Tutorial oficial de React",
+                            "link": "https://es.react.dev/learn/tutorial-tic-tac-toe"
+                        }
+                    ]
+                }
+            },
+            {
+                "3": {
+                    "Titulo": "Despedida del curso",
+                    "video": "",
+                    "links": {}
+                }
+            }
+        ]
+    }
+}

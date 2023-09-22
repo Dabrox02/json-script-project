@@ -1,0 +1,33 @@
+{
+    "1": {
+        "sectionName": "No name",
+        "videos": [
+            {
+                "1": {
+                    "titulo": "",
+                    "video": "git-1-01-Introduccion_al_curso.mp4",
+                    "links": {}
+                }
+            },
+            {
+                "2": {
+                    "titulo": "",
+                    "video": "git-1-02-C\u00f3mo funcionar\u00e1 el curso.mp4",
+                    "links": {}
+                }
+            }
+        ]
+    },
+    "2": {
+        "sectionName": "No name",
+        "videos": []
+    },
+    "3": {
+        "sectionName": "No name",
+        "videos": []
+    },
+    "4": {
+        "sectionName": "No name",
+        "videos": []
+    }
+}
