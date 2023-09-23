@@ -1,19 +1,30 @@
 {
     "1": {
-        "sectionName": "No name",
+        "sectionName": "Secci\u00c3\u00b3n 1: Introducci\u00c3\u00b3n",
         "videos": [
             {
                 "1": {
-                    "titulo": "",
+                    "titulo": "Introducci\u00c3\u00b3n al curso",
                     "video": "git-1-01-Introduccion_al_curso.mp4",
-                    "links": {}
+                    "links": [
+                        {
+                            "titulo-link": "Mozilla MDN: Fetch",
+                            "link": "https://github.com/Klerith/react-intro-javascript"
+                        }
+                    ],
+                    "texto": [
+                        {
+                            "Titulo": "Temas puntuales de la secci\u00c3\u00b3n",
+                            "Texto": "Temas puntuales de la secci\u00c3\u00b3n\n\u00c2\u00bfQu\u00c3\u00a9 aprenderemos en esta secci\u00c3\u00b3n?\n\nGenerar la base sobre JavaScript\n\nConstantes y variables Let\n\nTemplate String\n\nObjetos literales\n\nArreglos\n\nDesestructruaci\u00c3\u00b3n * (sumamente importante)\n\nPromesas\n\nFetch API\n\nTernarios\n\nAsync - Await\n\nMi objetivo aqu\u00c3\u00ad es que tengamos las bases que nos ayuden a que podamos diferenciar f\u00c3\u00a1cilmente qu\u00c3\u00a9 es propio de React y qu\u00c3\u00a9 es propio de JavaScript. Estos conceptos y ejercicios nos ayudar\u00c3\u00a1n a suavizar la curva de aprendizaje de React."
+                        }
+                    ]
                 }
             },
             {
                 "2": {
                     "titulo": "",
                     "video": "git-1-02-C\u00f3mo funcionar\u00e1 el curso.mp4",
-                    "links": {}
+                    "links": []
                 }
             }
         ]

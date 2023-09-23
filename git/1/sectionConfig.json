@@ -1,20 +1,27 @@
 {
-    "sectionName": "",
+    "sectionName": "Sección 1: Introducción",
     "videos": [
         {
             "1": {
-                "texto": "",
+                "titulo": "Introducción al curso",
+                "texto": [
+                    {
+                        "Titulo": "Temas puntuales de la sección",
+                        "Texto": "Temas puntuales de la sección\n¿Qué aprenderemos en esta sección?\n\nGenerar la base sobre JavaScript\n\nConstantes y variables Let\n\nTemplate String\n\nObjetos literales\n\nArreglos\n\nDesestructruación * (sumamente importante)\n\nPromesas\n\nFetch API\n\nTernarios\n\nAsync - Await\n\nMi objetivo aquí es que tengamos las bases que nos ayuden a que podamos diferenciar fácilmente qué es propio de React y qué es propio de JavaScript. Estos conceptos y ejercicios nos ayudarán a suavizar la curva de aprendizaje de React."
+                    }
+                ],
                 "links": [
                     {
-                        "titulo-link": "Instalaciones necesarias",
-                        "link": "https://gist.github.com/Klerith/4a4abfd88a88b2d1f16efd95fea41362"
+                        "titulo-link": "Mozilla MDN: Fetch",
+                        "link": "https://github.com/Klerith/react-intro-javascript"
                     }
                 ]
             }
         },
         {
             "2": {
-                "texto": "",
+                "titulo": "",
+                "texto": [],
                 "links": []
             }
         }
